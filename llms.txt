@@ -1,0 +1,736 @@
+# MojePole
+
+> Nabídky nemovitostí kanceláře MojePole.
+
+- Telefon: +420730701703
+- E-mail: info@mojepole.cz
+- Web: https://www.mojepole.cz/
+- Adresa: Revoluční 1003/3, Praha, 11000
+
+## Nabídky (726)
+- Prodej pozemku, zemědělská půda, 13 194 m² — Milotice, Rezervováno: prodej-pozemku-zemedelska-puda-13-194-m2-8531369/
+- Prodej pozemku, zemědělská půda, 20 697 m² — Husinec, Rezervováno: prodej-pozemku-zemedelska-puda-20-697-m2-8564153/
+- Prodej pozemku, zemědělská půda, 24 914 m² — Mezouň, Rezervováno: prodej-pozemku-zemedelska-puda-24-914-m2-8575803/
+- Prodej pozemku, trvalý travní porost, 10 783 m² — Třebanice, Rezervováno: prodej-pozemku-trvaly-travni-porost-10-783-m2-8579337/
+- Prodej pozemku, zemědělská půda, 5 433 m² — Zábřeh, Rezervováno: prodej-pozemku-zemedelska-puda-5-433-m2-8592543/
+- Prodej pozemku, trvalý travní porost, 32 027 m² — Dolní Město, Rezervováno: prodej-pozemku-trvaly-travni-porost-32-027-m2-8606343/
+- Prodej pozemku, trvalý travní porost, 2 785 m² — Křenovice, 150 000 Kč: prodej-pozemku-trvaly-travni-porost-2-785-m2-8614865/
+- Prodej pozemku pro bydlení, 2 733 m² — Trnovany, Rezervováno: prodej-pozemku-pro-bydleni-2-733-m2-8616471/
+- Prodej pozemku, zemědělská půda, 26 000 m² — Tisovec, Rezervováno: prodej-pozemku-zemedelska-puda-26-000-m2-8625041/
+- Prodej pozemku, zemědělská půda, 9 071 m² — Otáňka, Rezervováno: prodej-pozemku-zemedelska-puda-9-071-m2-8625205/
+- Prodej pozemku, zemědělská půda, 9 680 m² — Tisovec, Rezervováno: prodej-pozemku-zemedelska-puda-9-680-m2-8625213/
+- Prodej pozemku, zemědělská půda, 7 249 m² — Tisovec, Rezervováno: prodej-pozemku-zemedelska-puda-7-249-m2-8625217/
+- Prodej pozemku, zemědělská půda, 18 292 m² — Nepasice, Rezervováno: prodej-pozemku-zemedelska-puda-18-292-m2-8626185/
+- Prodej pozemku, zemědělská půda, 9 345 m² — Branka u Opavy, Rezervováno: prodej-pozemku-zemedelska-puda-9-345-m2-8626197/
+- Prodej pozemku, zemědělská půda, 16 676 m² — Ostrov, Rezervováno: prodej-pozemku-zemedelska-puda-16-676-m2-8632579/
+- Prodej pozemku, zemědělská půda, 36 215 m² — Dolní Roveň, Rezervováno: prodej-pozemku-zemedelska-puda-36-215-m2-8633807/
+- Prodej pozemku, zemědělská půda, 13 004 m² — Tlučná, 715 220 Kč: prodej-pozemku-zemedelska-puda-13-004-m2-8636627/
+- Prodej pozemku, zemědělská půda, 42 291 m² — Seč, Rezervováno: prodej-pozemku-zemedelska-puda-42-291-m2-8639097/
+- Prodej pozemku, zemědělská půda, 104 973 m² — Budětice, Rezervováno: prodej-pozemku-zemedelska-puda-104-973-m2-8641845/
+- Prodej pozemku, zemědělská půda, 53 129 m² — Rohozec, Rezervováno: prodej-pozemku-zemedelska-puda-53-129-m2-8645263/
+- Prodej pozemku, zemědělská půda, 7 843 m² — Borkovany, Rezervováno: prodej-pozemku-zemedelska-puda-7-843-m2-8645711/
+- Prodej pozemku, trvalý travní porost, 3 606 m² — Křešín, 133 422 Kč: prodej-pozemku-trvaly-travni-porost-3-606-m2-8646049/
+- Prodej pozemku, zemědělská půda, 10 817 m² — Lány, Rezervováno: prodej-pozemku-zemedelska-puda-10-817-m2-8648287/
+- Prodej pozemku, zemědělská půda, 17 927 m² — Blažovice, Rezervováno: prodej-pozemku-zemedelska-puda-17-927-m2-8648819/
+- Prodej pozemku, zemědělská půda, 52 280 m² — Údraž, 2 885 088 Kč: prodej-pozemku-zemedelska-puda-52-280-m2-8650675/
+- Prodej pozemku, zemědělská půda, 45 030 m² — Vepřová, 2 431 620 Kč: prodej-pozemku-zemedelska-puda-45-030-m2-8650743/
+- Prodej pozemku, trvalý travní porost, 55 877 m² — Ostrov, Rezervováno: prodej-pozemku-trvaly-travni-porost-55-877-m2-8650833/
+- Prodej pozemku, trvalý travní porost, 5 442 m² — Brumovice, Rezervováno: prodej-pozemku-trvaly-travni-porost-5-442-m2-8651841/
+- Prodej pozemku, zemědělská půda, 16 819 m² — Podhradí, Rezervováno: prodej-pozemku-zemedelska-puda-16-819-m2-8651909/
+- Prodej pozemku, zemědělská půda, 13 880 m² — Katov, 832 800 Kč: prodej-pozemku-zemedelska-puda-13-880-m2-8652037/
+- Prodej pozemku, zemědělská půda, 6 012 m² — Nebovidy, 781 528 Kč: prodej-pozemku-zemedelska-puda-6-012-m2-8652565/
+- Prodej pozemku, zemědělská půda, 50 076 m² — Vlasatice, Rezervováno: prodej-pozemku-zemedelska-puda-50-076-m2-8652875/
+- Prodej pozemku, zemědělská půda, 1 528 m² — Vlasatice, Rezervováno: prodej-pozemku-zemedelska-puda-1-528-m2-8652881/
+- Prodej pozemku, zemědělská půda, 8 675 m² — Veliká Ves, Rezervováno: prodej-pozemku-zemedelska-puda-8-675-m2-8652939/
+- Prodej pozemku, zemědělská půda, 39 626 m² — Bílá Třemešná, 2 337 934 Kč: prodej-pozemku-zemedelska-puda-39-626-m2-8653807/
+- Prodej pozemku pro bydlení, 496 m² — Prušánky, 480 128 Kč: prodej-pozemku-pro-bydleni-496-m2-8654421/
+- Prodej pozemku pro bydlení, 15 153 m² — Rapotín, Rezervováno: prodej-pozemku-pro-bydleni-15-153-m2-8654553/
+- Prodej pozemku, zemědělská půda, 5 741 m² — Zarazice, 281 309 Kč: prodej-pozemku-zemedelska-puda-5-741-m2-8655947/
+- Prodej pozemku, zemědělská půda, 3 700 m² — Týn nad Bečvou, 162 800 Kč: prodej-pozemku-zemedelska-puda-3-700-m2-8655949/
+- Prodej pozemku, zemědělská půda, 12 645 m² — Vysokov, Rezervováno: prodej-pozemku-zemedelska-puda-12-645-m2-8655951/
+- Prodej pozemku, zemědělská půda, 6 118 m² — Kostelec na Hané, 403 788 Kč: prodej-pozemku-zemedelska-puda-6-118-m2-8656099/
+- Prodej pozemku, zemědělská půda, 15 876 m² — Klobouky u Brna, 714 443 Kč: prodej-pozemku-zemedelska-puda-15-876-m2-8656103/
+- Prodej pozemku, zemědělská půda, 5 575 m² — Čejkovice, Rezervováno: prodej-pozemku-zemedelska-puda-5-575-m2-8656115/
+- Prodej pozemku, zemědělská půda, 1 178 m² — Prštice, 90 725 Kč: prodej-pozemku-zemedelska-puda-1-178-m2-8656173/
+- Prodej pozemku, zemědělská půda, 68 642 m² — Hněvnice, Rezervováno: prodej-pozemku-zemedelska-puda-68-642-m2-8657511/
+- Prodej pozemku, zemědělská půda, 31 179 m² — Odřepsy, 1 995 456 Kč: prodej-pozemku-zemedelska-puda-31-179-m2-8657831/
+- Prodej pozemku, zemědělská půda, 2 550 m² — Hustopeče, 124 950 Kč: prodej-pozemku-zemedelska-puda-2-550-m2-8657837/
+- Prodej pozemku, trvalý travní porost, 6 965 m² — Bukovina, Rezervováno: prodej-pozemku-trvaly-travni-porost-6-965-m2-8657851/
+- Prodej pozemku, zemědělská půda, 31 209 m² — Čejkovice, Rezervováno: prodej-pozemku-zemedelska-puda-31-209-m2-8658505/
+- Prodej pozemku, trvalý travní porost, 5 082 m² — Nahošín, 198 198 Kč: prodej-pozemku-trvaly-travni-porost-5-082-m2-8658549/
+- Prodej pozemku, zemědělská půda, 4 633 m² — Droždín, 398 438 Kč: prodej-pozemku-zemedelska-puda-4-633-m2-8658551/
+- Prodej pozemku pro komerční výstavbu, 3 700 m² — Řečkovice, 2 686 200 Kč: prodej-pozemku-pro-komercni-vystavbu-3-700-m2-8659187/
+- Prodej pozemku, trvalý travní porost, 64 532 m² — Valkeřice, Rezervováno: prodej-pozemku-trvaly-travni-porost-64-532-m2-8659349/
+- Prodej pozemku pro bydlení, 3 755 m² — Lukavice, 2 291 740 Kč: prodej-pozemku-pro-bydleni-3-755-m2-8659543/
+- Prodej pozemku pro bydlení, 1 795 m² — Lukavice, 868 780 Kč: prodej-pozemku-pro-bydleni-1-795-m2-8659547/
+- Prodej pozemku pro bydlení, 1 960 m² — Lukavice, 1 422 960 Kč: prodej-pozemku-pro-bydleni-1-960-m2-8659555/
+- Prodej pozemku, zemědělská půda, 5 299 m² — Horní Bukovina, 259 627 Kč: prodej-pozemku-zemedelska-puda-5-299-m2-8660665/
+- Prodej pozemku, zemědělská půda, 3 824 m² — Újezd u Brna, 275 328 Kč: prodej-pozemku-zemedelska-puda-3-824-m2-8660693/
+- Prodej pozemku, zemědělská půda, 8 283 m² — Krotějov, 405 867 Kč: prodej-pozemku-zemedelska-puda-8-283-m2-8660703/
+- Prodej pozemku, zemědělská půda, 11 483 m² — Neveklovice, 528 218 Kč: prodej-pozemku-zemedelska-puda-11-483-m2-8660709/
+- Prodej pozemku, trvalý travní porost, 9 466 m² — Šestajovice, 416 504 Kč: prodej-pozemku-trvaly-travni-porost-9-466-m2-8660713/
+- Prodej pozemku, trvalý travní porost, 4 240 m² — Rudov, 224 720 Kč: prodej-pozemku-trvaly-travni-porost-4-240-m2-8660741/
+- Prodej pozemku, trvalý travní porost, 5 033 m² — Vydří, 211 386 Kč: prodej-pozemku-trvaly-travni-porost-5-033-m2-8660995/
+- Prodej pozemku, trvalý travní porost, 87 920 m² — Skočice, Rezervováno: prodej-pozemku-trvaly-travni-porost-87-920-m2-8661001/
+- Prodej pozemku, trvalý travní porost, 7 808 m² — Jílové u Držkova, Rezervováno: prodej-pozemku-trvaly-travni-porost-7-808-m2-8661011/
+- Prodej pozemku, trvalý travní porost, 5 847 m² — Jílové u Držkova, Rezervováno: prodej-pozemku-trvaly-travni-porost-5-847-m2-8661017/
+- Prodej pozemku, zemědělská půda, 29 881 m² — Žďárná, 1 165 359 Kč: prodej-pozemku-zemedelska-puda-29-881-m2-8661971/
+- Prodej pozemku, zemědělská půda, 4 819 m² — Mníšek, Rezervováno: prodej-pozemku-zemedelska-puda-4-819-m2-8661995/
+- Prodej pozemku, zemědělská půda, 18 264 m² — Žďárná, 821 858 Kč: prodej-pozemku-zemedelska-puda-18-264-m2-8662041/
+- Prodej pozemku, zemědělská půda, 2 074 m² — Hlohovec, 99 552 Kč: prodej-pozemku-zemedelska-puda-2-074-m2-8662057/
+- Prodej pozemku, zemědělská půda, 11 618 m² — Žďárná, 476 318 Kč: prodej-pozemku-zemedelska-puda-11-618-m2-8662059/
+- Prodej pozemku, trvalý travní porost, 58 460 m² — Malešín, 3 273 760 Kč: prodej-pozemku-trvaly-travni-porost-58-460-m2-8662085/
+- Prodej pozemku, trvalý travní porost, 7 746 m² — Lhota, 325 332 Kč: prodej-pozemku-trvaly-travni-porost-7-746-m2-8662093/
+- Prodej pozemku, zemědělská půda, 9 764 m² — Česká Skalice, 585 840 Kč: prodej-pozemku-zemedelska-puda-9-764-m2-8662127/
+- Prodej pozemku, zemědělská půda, 15 066 m² — Kleny, 873 828 Kč: prodej-pozemku-zemedelska-puda-15-066-m2-8662129/
+- Prodej pozemku, zemědělská půda, 6 762 m² — Rodvínov, 446 292 Kč: prodej-pozemku-zemedelska-puda-6-762-m2-8662131/
+- Prodej pozemku, trvalý travní porost, 6 178 m² — Kleny, 333 612 Kč: prodej-pozemku-trvaly-travni-porost-6-178-m2-8662135/
+- Prodej pozemku, zemědělská půda, 34 145 m² — Holubeč, 1 434 090 Kč: prodej-pozemku-zemedelska-puda-34-145-m2-8662449/
+- Prodej pozemku, zemědělská půda, 18 437 m² — Holubeč, 811 228 Kč: prodej-pozemku-zemedelska-puda-18-437-m2-8662453/
+- Prodej pozemku, zemědělská půda, 6 903 m² — Holubeč, 331 344 Kč: prodej-pozemku-zemedelska-puda-6-903-m2-8662455/
+- Prodej pozemku, zemědělská půda, 8 805 m² — Holubeč, 387 420 Kč: prodej-pozemku-zemedelska-puda-8-805-m2-8662457/
+- Prodej pozemku, zemědělská půda, 8 747 m² — Žerčice, 481 085 Kč: prodej-pozemku-zemedelska-puda-8-747-m2-8662731/
+- Prodej pozemku, zemědělská půda, 50 679 m² — Občov, 3 091 419 Kč: prodej-pozemku-zemedelska-puda-50-679-m2-8662757/
+- Prodej pozemku, zemědělská půda, 4 946 m² — Výrovice, 281 922 Kč: prodej-pozemku-zemedelska-puda-4-946-m2-8662775/
+- Prodej pozemku, zemědělská půda, 3 542 m² — Chrást, 219 604 Kč: prodej-pozemku-zemedelska-puda-3-542-m2-8662801/
+- Prodej pozemku, zemědělská půda, 4 068 m² — Slopné, Rezervováno: prodej-pozemku-zemedelska-puda-4-068-m2-8663045/
+- Prodej pozemku, zemědělská půda, 5 666 m² — Moravský Písek, 402 286 Kč: prodej-pozemku-zemedelska-puda-5-666-m2-8663129/
+- Prodej pozemku, zemědělská půda, 476 m² — Rakov, 604 758 Kč: prodej-pozemku-zemedelska-puda-476-m2-8663605/
+- Prodej pozemku pro komerční výstavbu, 2 747 m² — Chlumec, Rezervováno: prodej-pozemku-pro-komercni-vystavbu-2-747-m2-8663621/
+- Prodej pozemku pro bydlení, 2 837 m² — Horní Lhota, 575 298 Kč: prodej-pozemku-pro-bydleni-2-837-m2-8663857/
+- Prodej pozemku, zemědělská půda, 86 975 m² — Trnávka, Rezervováno: prodej-pozemku-zemedelska-puda-86-975-m2-8664039/
+- Prodej pozemku, zemědělská půda, 24 168 m² — Stav, 1 111 728 Kč: prodej-pozemku-zemedelska-puda-24-168-m2-8664051/
+- Prodej pozemku, zemědělská půda, 7 055 m² — Pravčice, 437 395 Kč: prodej-pozemku-zemedelska-puda-7-055-m2-8664053/
+- Prodej pozemku, zemědělská půda, 39 203 m² — Podlažice, 2 077 733 Kč: prodej-pozemku-zemedelska-puda-39-203-m2-8664097/
+- Prodej pozemku, zemědělská půda, 3 509 m² — Opatovice, Rezervováno: prodej-pozemku-zemedelska-puda-3-509-m2-8664157/
+- Prodej pozemku, zemědělská půda, 14 142 m² — Bohuslavice, 579 822 Kč: prodej-pozemku-zemedelska-puda-14-142-m2-8666535/
+- Prodej pozemku, zemědělská půda, 14 751 m² — Starý Maletín, 604 791 Kč: prodej-pozemku-zemedelska-puda-14-751-m2-8666541/
+- Prodej pozemku, zemědělská půda, 5 282 m² — Starý Bohumín, 258 818 Kč: prodej-pozemku-zemedelska-puda-5-282-m2-8666565/
+- Prodej pozemku, trvalý travní porost, 6 872 m² — Babice, Rezervováno: prodej-pozemku-trvaly-travni-porost-6-872-m2-8666573/
+- Prodej pozemku, trvalý travní porost, 5 198 m² — Železný Brod, 228 712 Kč: prodej-pozemku-trvaly-travni-porost-5-198-m2-8666575/
+- Prodej pozemku, zemědělská půda, 26 258 m² — Podivice, 1 102 836 Kč: prodej-pozemku-zemedelska-puda-26-258-m2-8666587/
+- Prodej pozemku, zemědělská půda, 4 812 m² — Podivice, 216 540 Kč: prodej-pozemku-zemedelska-puda-4-812-m2-8666591/
+- Prodej pozemku, zemědělská půda, 21 446 m² — Podivice, 965 070 Kč: prodej-pozemku-zemedelska-puda-21-446-m2-8666597/
+- Prodej pozemku, zemědělská půda, 3 833 m² — Dětenice, 218 495 Kč: prodej-pozemku-zemedelska-puda-3-833-m2-8666603/
+- Prodej pozemku, zemědělská půda, 30 834 m² — Bohuslavice, 1 480 032 Kč: prodej-pozemku-zemedelska-puda-30-834-m2-8666699/
+- Prodej pozemku, zemědělská půda, 14 321 m² — Bohuslavice, 730 371 Kč: prodej-pozemku-zemedelska-puda-14-321-m2-8666701/
+- Prodej pozemku, zemědělská půda, 16 513 m² — Bohuslavice, 842 163 Kč: prodej-pozemku-zemedelska-puda-16-513-m2-8666707/
+- Prodej pozemku, zemědělská půda, 30 363 m² — Oslavička, 1 315 994 Kč: prodej-pozemku-zemedelska-puda-30-363-m2-8666725/
+- Prodej pozemku, zemědělská půda, 7 413 m² — Oslavička, 348 411 Kč: prodej-pozemku-zemedelska-puda-7-413-m2-8666733/
+- Prodej pozemku, zemědělská půda, 16 964 m² — Oslavička, 791 453 Kč: prodej-pozemku-zemedelska-puda-16-964-m2-8666737/
+- Prodej pozemku, trvalý travní porost, 5 986 m² — Oslavička, 287 328 Kč: prodej-pozemku-trvaly-travni-porost-5-986-m2-8666743/
+- Prodej pozemku, zemědělská půda, 18 463 m² — Nový Poddvorov, Rezervováno: prodej-pozemku-zemedelska-puda-18-463-m2-8666753/
+- Prodej pozemku, zemědělská půda, 8 153 m² — Košice, 342 426 Kč: prodej-pozemku-zemedelska-puda-8-153-m2-8666755/
+- Prodej pozemku, zemědělská půda, 4 048 m² — Košice, 186 185 Kč: prodej-pozemku-zemedelska-puda-4-048-m2-8666759/
+- Prodej pozemku, zemědělská půda, 4 106 m² — Košice, 188 853 Kč: prodej-pozemku-zemedelska-puda-4-106-m2-8666775/
+- Prodej pozemku, zemědělská půda, 15 942 m² — Kleny, 797 100 Kč: prodej-pozemku-zemedelska-puda-15-942-m2-8667145/
+- Prodej pozemku, zemědělská půda, 4 471 m² — Vřesovice, 223 550 Kč: prodej-pozemku-zemedelska-puda-4-471-m2-8667197/
+- Prodej pozemku, zemědělská půda, 11 075 m² — Radkov, Rezervováno: prodej-pozemku-zemedelska-puda-11-075-m2-8667207/
+- Prodej pozemku, trvalý travní porost, 58 156 m² — Medvědice, Rezervováno: prodej-pozemku-trvaly-travni-porost-58-156-m2-8667233/
+- Prodej pozemku, zemědělská půda, 15 611 m² — Přetín, 686 884 Kč: prodej-pozemku-zemedelska-puda-15-611-m2-8667283/
+- Prodej pozemku, zemědělská půda, 106 421 m² — Dubnice, 4 682 524 Kč: prodej-pozemku-zemedelska-puda-106-421-m2-8667353/
+- Prodej pozemku, zemědělská půda, 51 534 m² — Dubnice, 2 370 564 Kč: prodej-pozemku-zemedelska-puda-51-534-m2-8667373/
+- Prodej pozemku, zemědělská půda, 54 887 m² — Dubnice, 2 524 802 Kč: prodej-pozemku-zemedelska-puda-54-887-m2-8667385/
+- Prodej pozemku, zemědělská půda, 5 998 m² — Dřevohostice, Rezervováno: prodej-pozemku-zemedelska-puda-5-998-m2-8667455/
+- Prodej pozemku, trvalý travní porost, 7 303 m² — Košatka, 387 033 Kč: prodej-pozemku-trvaly-travni-porost-7-303-m2-8667467/
+- Prodej pozemku, zemědělská půda, 13 549 m² — Lipov, 623 254 Kč: prodej-pozemku-zemedelska-puda-13-549-m2-8667485/
+- Prodej pozemku, zemědělská půda, 9 823 m² — Horní Moštěnice, 726 902 Kč: prodej-pozemku-zemedelska-puda-9-823-m2-8667531/
+- Prodej pozemku, zemědělská půda, 4 431 m² — Stará Ves, 319 032 Kč: prodej-pozemku-zemedelska-puda-4-431-m2-8667533/
+- Prodej pozemku, zemědělská půda, 21 457 m² — Hřešihlavy, 1 287 420 Kč: prodej-pozemku-zemedelska-puda-21-457-m2-8667587/
+- Prodej pozemku, zemědělská půda, 3 990 m² — Troubky, 359 100 Kč: prodej-pozemku-zemedelska-puda-3-990-m2-8667599/
+- Prodej pozemku, zemědělská půda, 12 105 m² — Hřešihlavy, 750 510 Kč: prodej-pozemku-zemedelska-puda-12-105-m2-8667613/
+- Prodej pozemku, zemědělská půda, 19 426 m² — Nový Bydžov, 1 010 152 Kč: prodej-pozemku-zemedelska-puda-19-426-m2-8667619/
+- Prodej pozemku, zemědělská půda, 6 808 m² — Mistřice, 333 592 Kč: prodej-pozemku-zemedelska-puda-6-808-m2-8667653/
+- Prodej pozemku, zemědělská půda, 18 850 m² — Rosice, 1 017 900 Kč: prodej-pozemku-zemedelska-puda-18-850-m2-8667683/
+- Prodej pozemku, zemědělská půda, 4 265 m² — Strážnice, 204 720 Kč: prodej-pozemku-zemedelska-puda-4-265-m2-8668993/
+- Prodej pozemku, trvalý travní porost, 19 902 m² — Strážnice, 915 492 Kč: prodej-pozemku-trvaly-travni-porost-19-902-m2-8669005/
+- Prodej pozemku, zemědělská půda, 2 985 m² — Koldín, 143 256 Kč: prodej-pozemku-zemedelska-puda-2-985-m2-8669009/
+- Prodej pozemku, zemědělská půda, 5 978 m² — Mutěnice, 251 076 Kč: prodej-pozemku-zemedelska-puda-5-978-m2-8669015/
+- Prodej pozemku, zemědělská půda, 8 829 m² — Dobřínsko, 459 108 Kč: prodej-pozemku-zemedelska-puda-8-829-m2-8669017/
+- Prodej pozemku, trvalý travní porost, 15 637 m² — Strážnice, 766 213 Kč: prodej-pozemku-trvaly-travni-porost-15-637-m2-8669019/
+- Prodej pozemku, zemědělská půda, 17 481 m² — Nemotice, Rezervováno: prodej-pozemku-zemedelska-puda-17-481-m2-8669043/
+- Prodej pozemku, zemědělská půda, 7 973 m² — Klobouky u Brna, 390 677 Kč: prodej-pozemku-zemedelska-puda-7-973-m2-8669191/
+- Prodej pozemku, zemědělská půda, 12 651 m² — Sedlec, 885 570 Kč: prodej-pozemku-zemedelska-puda-12-651-m2-8669265/
+- Prodej pozemku, zemědělská půda, 30 717 m² — Košice, 1 259 397 Kč: prodej-pozemku-zemedelska-puda-30-717-m2-8669291/
+- Prodej pozemku, zemědělská půda, 19 348 m² — Dřínov, 928 715 Kč: prodej-pozemku-zemedelska-puda-19-348-m2-8669295/
+- Prodej pozemku, zemědělská půda, 12 715 m² — Hodice, 495 885 Kč: prodej-pozemku-zemedelska-puda-12-715-m2-8669305/
+- Prodej pozemku, zemědělská půda, 12 715 m² — Hodice, 495 885 Kč: prodej-pozemku-zemedelska-puda-12-715-m2-8669307/
+- Prodej pozemku, zemědělská půda, 9 890 m² — Olšany u Prostějova, 741 750 Kč: prodej-pozemku-zemedelska-puda-9-890-m2-8669309/
+- Prodej pozemku, zemědělská půda, 3 042 m² — Katov, 139 932 Kč: prodej-pozemku-zemedelska-puda-3-042-m2-8669321/
+- Prodej pozemku, zemědělská půda, 6 007 m² — Račiněves, 372 403 Kč: prodej-pozemku-zemedelska-puda-6-007-m2-8669325/
+- Prodej pozemku, zemědělská půda, 4 002 m² — Bělá, 204 102 Kč: prodej-pozemku-zemedelska-puda-4-002-m2-8669329/
+- Prodej pozemku, zemědělská půda, 5 429 m² — Olšany u Prostějova, 423 436 Kč: prodej-pozemku-zemedelska-puda-5-429-m2-8669331/
+- Prodej pozemku, zemědělská půda, 7 073 m² — Prštice, Rezervováno: prodej-pozemku-zemedelska-puda-7-073-m2-8669333/
+- Prodej pozemku, zemědělská půda, 4 462 m² — Olšany u Prostějova, 352 472 Kč: prodej-pozemku-zemedelska-puda-4-462-m2-8669343/
+- Prodej pozemku, zemědělská půda, 51 244 m² — Nahošín, 2 459 712 Kč: prodej-pozemku-zemedelska-puda-51-244-m2-8669385/
+- Prodej pozemku, zemědělská půda, 25 978 m² — Tuněchody, 1 610 605 Kč: prodej-pozemku-zemedelska-puda-25-978-m2-8669389/
+- Prodej pozemku, zemědělská půda, 2 992 m² — Spytihněv, 155 584 Kč: prodej-pozemku-zemedelska-puda-2-992-m2-8669401/
+- Prodej pozemku, zemědělská půda, 6 359 m² — Moravské Bránice, 305 232 Kč: prodej-pozemku-zemedelska-puda-6-359-m2-8669405/
+- Prodej pozemku, zemědělská půda, 20 883 m² — Žarošice, 1 002 384 Kč: prodej-pozemku-zemedelska-puda-20-883-m2-8669409/
+- Prodej pozemku pro komerční výstavbu, 3 598 m² — Minice, 1 175 467 Kč: prodej-pozemku-pro-komercni-vystavbu-3-598-m2-8669793/
+- Prodej pozemku pro komerční výstavbu, 2 179 m² — Prušánky, 141 635 Kč: prodej-pozemku-pro-komercni-vystavbu-2-179-m2-8671121/
+- Prodej pozemku, zemědělská půda, 8 666 m² — Moravská Nová Ves, 441 966 Kč: prodej-pozemku-zemedelska-puda-8-666-m2-8671125/
+- Prodej pozemku, zemědělská půda, 104 944 m² — Bílovec, Rezervováno: prodej-pozemku-zemedelska-puda-104-944-m2-8671127/
+- Prodej pozemku, zemědělská půda, 40 179 m² — Slušovice, Rezervováno: prodej-pozemku-zemedelska-puda-40-179-m2-8671141/
+- Prodej pozemku, zemědělská půda, 75 621 m² — Vyskytná, 3 705 429 Kč: prodej-pozemku-zemedelska-puda-75-621-m2-8671143/
+- Prodej pozemku, zemědělská půda, 42 248 m² — Vlčice, 2 070 152 Kč: prodej-pozemku-zemedelska-puda-42-248-m2-8671149/
+- Prodej pozemku, les, 6 378 m² — Veselí nad Moravou, 191 340 Kč: prodej-pozemku-les-6-378-m2-8671151/
+- Prodej pozemku, zemědělská půda, 45 206 m² — Oselce, 1 763 034 Kč: prodej-pozemku-zemedelska-puda-45-206-m2-8671153/
+- Prodej pozemku, trvalý travní porost, 6 792 m² — Dudín, 332 808 Kč: prodej-pozemku-trvaly-travni-porost-6-792-m2-8671155/
+- Prodej pozemku, zemědělská půda, 13 476 m² — Stará Bělá, Rezervováno: prodej-pozemku-zemedelska-puda-13-476-m2-8671157/
+- Prodej pozemku, zemědělská půda, 5 191 m² — Velatice, Rezervováno: prodej-pozemku-zemedelska-puda-5-191-m2-8671161/
+- Prodej pozemku, trvalý travní porost, 6 378 m² — Veselí nad Moravou, 191 340 Kč: prodej-pozemku-trvaly-travni-porost-6-378-m2-8671491/
+- Prodej pozemku, zemědělská půda, 11 672 m² — Chraberce, 560 256 Kč: prodej-pozemku-zemedelska-puda-11-672-m2-8671983/
+- Prodej pozemku, zemědělská půda, 10 883 m² — Železnice, 555 033 Kč: prodej-pozemku-zemedelska-puda-10-883-m2-8671987/
+- Prodej pozemku, zemědělská půda, 6 457 m² — Pacetluky, 284 108 Kč: prodej-pozemku-zemedelska-puda-6-457-m2-8671991/
+- Prodej pozemku, trvalý travní porost, 13 383 m² — Městečko Trnávka, 240 894 Kč: prodej-pozemku-trvaly-travni-porost-13-383-m2-8672003/
+- Prodej pozemku, trvalý travní porost, 10 311 m² — Městečko Trnávka, 185 598 Kč: prodej-pozemku-trvaly-travni-porost-10-311-m2-8672011/
+- Prodej pozemku, trvalý travní porost, 23 694 m² — Bohdalov, 355 410 Kč: prodej-pozemku-trvaly-travni-porost-23-694-m2-8672023/
+- Prodej pozemku, zemědělská půda, 6 896 m² — Džbánice, 248 256 Kč: prodej-pozemku-zemedelska-puda-6-896-m2-8672025/
+- Prodej pozemku, zemědělská půda, 24 528 m² — Džbánice, 711 312 Kč: prodej-pozemku-zemedelska-puda-24-528-m2-8672031/
+- Prodej pozemku, zemědělská půda, 6 560 m² — Džbánice, 229 600 Kč: prodej-pozemku-zemedelska-puda-6-560-m2-8672035/
+- Prodej pozemku, zemědělská půda, 11 072 m² — Džbánice, 398 592 Kč: prodej-pozemku-zemedelska-puda-11-072-m2-8672045/
+- Prodej pozemku, zemědělská půda, 14 800 m² — Kelč, 399 600 Kč: prodej-pozemku-zemedelska-puda-14-800-m2-8672049/
+- Prodej pozemku, zemědělská půda, 4 331 m² — Osvětimany, 164 578 Kč: prodej-pozemku-zemedelska-puda-4-331-m2-8672057/
+- Prodej pozemku, trvalý travní porost, 10 323 m² — Dvůr Králové nad Labem, 536 796 Kč: prodej-pozemku-trvaly-travni-porost-10-323-m2-8672061/
+- Prodej pozemku, zemědělská půda, 5 787 m² — Kudlovice, 260 415 Kč: prodej-pozemku-zemedelska-puda-5-787-m2-8672073/
+- Prodej pozemku, zemědělská půda, 7 306 m² — Zásada, 233 792 Kč: prodej-pozemku-zemedelska-puda-7-306-m2-8672075/
+- Prodej pozemku, zemědělská půda, 30 661 m² — Kuřimany, 950 491 Kč: prodej-pozemku-zemedelska-puda-30-661-m2-8672087/
+- Prodej pozemku, zemědělská půda, 9 105 m² — Třemošná, 309 570 Kč: prodej-pozemku-zemedelska-puda-9-105-m2-8672089/
+- Prodej pozemku, zemědělská půda, 5 903 m² — Kuřimany, 200 702 Kč: prodej-pozemku-zemedelska-puda-5-903-m2-8672095/
+- Prodej pozemku, zemědělská půda, 7 564 m² — Kuřimany, 249 612 Kč: prodej-pozemku-zemedelska-puda-7-564-m2-8672097/
+- Prodej pozemku, zemědělská půda, 17 013 m² — Rozkoš, 850 650 Kč: prodej-pozemku-zemedelska-puda-17-013-m2-8672099/
+- Prodej pozemku, zemědělská půda, 7 600 m² — Podolí, 342 000 Kč: prodej-pozemku-zemedelska-puda-7-600-m2-8672103/
+- Prodej pozemku, zemědělská půda, 17 194 m² — Kuřimany, 584 596 Kč: prodej-pozemku-zemedelska-puda-17-194-m2-8672115/
+- Prodej pozemku, zemědělská půda, 34 439 m² — Velký Bor, 1 067 609 Kč: prodej-pozemku-zemedelska-puda-34-439-m2-8672141/
+- Prodej pozemku, les, 16 139 m² — Velký Bor, 371 197 Kč: prodej-pozemku-les-16-139-m2-8672145/
+- Prodej pozemku, zemědělská půda, 18 300 m² — Velký Bor, 640 500 Kč: prodej-pozemku-zemedelska-puda-18-300-m2-8672153/
+- Prodej pozemku, zemědělská půda, 20 325 m² — Žernovník, 609 750 Kč: prodej-pozemku-zemedelska-puda-20-325-m2-8672189/
+- Prodej pozemku, zemědělská půda, 9 268 m² — Žernovník, 315 112 Kč: prodej-pozemku-zemedelska-puda-9-268-m2-8672195/
+- Prodej pozemku, zemědělská půda, 5 757 m² — Žernovník, 189 981 Kč: prodej-pozemku-zemedelska-puda-5-757-m2-8672199/
+- Prodej pozemku, zemědělská půda, 5 300 m² — Žernovník, 174 900 Kč: prodej-pozemku-zemedelska-puda-5-300-m2-8672201/
+- Prodej pozemku, zemědělská půda, 25 411 m² — Ubušín, Rezervováno: prodej-pozemku-zemedelska-puda-25-411-m2-8672217/
+- Prodej pozemku, zemědělská půda, 8 756 m² — Dobrá, 455 286 Kč: prodej-pozemku-zemedelska-puda-8-756-m2-8672929/
+- Prodej pozemku, zemědělská půda, 104 397 m² — Jištěrpy, 5 115 453 Kč: prodej-pozemku-zemedelska-puda-104-397-m2-8672937/
+- Prodej pozemku, zemědělská půda, 49 148 m² — Svatobořice, 2 752 288 Kč: prodej-pozemku-zemedelska-puda-49-148-m2-8672991/
+- Prodej pozemku, zemědělská půda, 10 259 m² — Kobylí, 543 727 Kč: prodej-pozemku-zemedelska-puda-10-259-m2-8673035/
+- Prodej pozemku pro bydlení, 4 428 m² — Libkov, 482 209 Kč: prodej-pozemku-pro-bydleni-4-428-m2-8673061/
+- Prodej pozemku, zahrada, 656 m² — Poštorná, 301 629 Kč: prodej-pozemku-zahrada-656-m2-8673857/
+- Prodej pozemku pro bydlení, 479 m² — Budětsko, 358 971 Kč: prodej-pozemku-pro-bydleni-479-m2-8673901/
+- Prodej pozemku, zemědělská půda, 7 813 m² — Lomnice nad Lužnicí, 343 772 Kč: prodej-pozemku-zemedelska-puda-7-813-m2-8675203/
+- Prodej pozemku, zemědělská půda, 6 238 m² — Křepice, Rezervováno: prodej-pozemku-zemedelska-puda-6-238-m2-8676091/
+- Prodej pozemku, zemědělská půda, 1 876 m² — Újezd u Brna, Rezervováno: prodej-pozemku-zemedelska-puda-1-876-m2-8676099/
+- Prodej pozemku, zemědělská půda, 98 208 m² — Křelov, 8 347 680 Kč: prodej-pozemku-zemedelska-puda-98-208-m2-8676101/
+- Prodej pozemku, trvalý travní porost, 6 962 m² — Psinice, 299 366 Kč: prodej-pozemku-trvaly-travni-porost-6-962-m2-8676603/
+- Prodej pozemku, zemědělská půda, 2 416 m² — Zderaz, 84 560 Kč: prodej-pozemku-zemedelska-puda-2-416-m2-8676607/
+- Prodej pozemku, zemědělská půda, 32 099 m² — Seč, 1 059 267 Kč: prodej-pozemku-zemedelska-puda-32-099-m2-8676609/
+- Prodej pozemku, zemědělská půda, 15 495 m² — Seč, 573 315 Kč: prodej-pozemku-zemedelska-puda-15-495-m2-8676615/
+- Prodej pozemku, zemědělská půda, 34 919 m² — Poběžovice, 2 514 168 Kč: prodej-pozemku-zemedelska-puda-34-919-m2-8676619/
+- Prodej pozemku, zemědělská půda, 16 604 m² — Seč, 614 348 Kč: prodej-pozemku-zemedelska-puda-16-604-m2-8676621/
+- Prodej pozemku, zemědělská půda, 19 559 m² — Bzenec, 860 596 Kč: prodej-pozemku-zemedelska-puda-19-559-m2-8676641/
+- Prodej pozemku, zemědělská půda, 10 549 m² — Vracov, 485 254 Kč: prodej-pozemku-zemedelska-puda-10-549-m2-8676651/
+- Prodej pozemku, zemědělská půda, 9 010 m² — Bzenec, 414 460 Kč: prodej-pozemku-zemedelska-puda-9-010-m2-8676657/
+- Prodej pozemku, trvalý travní porost, 4 760 m² — Zdounky, 199 920 Kč: prodej-pozemku-trvaly-travni-porost-4-760-m2-8676667/
+- Prodej pozemku, zemědělská půda, 68 792 m² — Dubenec, 3 439 600 Kč: prodej-pozemku-zemedelska-puda-68-792-m2-8676671/
+- Prodej pozemku, zemědělská půda, 43 833 m² — Dubenec, 2 498 481 Kč: prodej-pozemku-zemedelska-puda-43-833-m2-8676673/
+- Prodej pozemku, trvalý travní porost, 16 981 m² — Dubenec, 899 993 Kč: prodej-pozemku-trvaly-travni-porost-16-981-m2-8676695/
+- Prodej pozemku, trvalý travní porost, 7 978 m² — Dubenec, 494 636 Kč: prodej-pozemku-trvaly-travni-porost-7-978-m2-8676705/
+- Prodej pozemku, zemědělská půda, 4 151 m² — Bohuslavice, 199 248 Kč: prodej-pozemku-zemedelska-puda-4-151-m2-8676727/
+- Prodej pozemku, trvalý travní porost, 29 170 m² — Stráž nad Nežárkou, 962 627 Kč: prodej-pozemku-trvaly-travni-porost-29-170-m2-8676735/
+- Prodej pozemku, zemědělská půda, 11 441 m² — Otrokovice, 560 609 Kč: prodej-pozemku-zemedelska-puda-11-441-m2-8676737/
+- Prodej pozemku, zemědělská půda, 10 218 m² — Stráž nad Nežárkou, 357 630 Kč: prodej-pozemku-zemedelska-puda-10-218-m2-8676739/
+- Prodej pozemku, trvalý travní porost, 18 953 m² — Stráž nad Nežárkou, 739 167 Kč: prodej-pozemku-trvaly-travni-porost-18-953-m2-8676741/
+- Prodej pozemku, zemědělská půda, 47 572 m² — Městečko Trnávka, 1 998 024 Kč: prodej-pozemku-zemedelska-puda-47-572-m2-8676743/
+- Prodej pozemku, zemědělská půda, 37 637 m² — Městečko Trnávka, 1 656 028 Kč: prodej-pozemku-zemedelska-puda-37-637-m2-8676753/
+- Prodej pozemku, zemědělská půda, 30 654 m² — Melč, 1 164 852 Kč: prodej-pozemku-zemedelska-puda-30-654-m2-8676757/
+- Prodej pozemku, zemědělská půda, 17 735 m² — Melč, 727 135 Kč: prodej-pozemku-zemedelska-puda-17-735-m2-8676761/
+- Prodej pozemku, zemědělská půda, 12 919 m² — Moravice, 529 679 Kč: prodej-pozemku-zemedelska-puda-12-919-m2-8676763/
+- Prodej pozemku, les, 9 935 m² — Městečko Trnávka, 228 505 Kč: prodej-pozemku-les-9-935-m2-8676767/
+- Prodej pozemku, zemědělská půda, 24 188 m² — Kvítkovice, Rezervováno: prodej-pozemku-zemedelska-puda-24-188-m2-8676777/
+- Prodej pozemku, zemědělská půda, 19 304 m² — Tísek, Rezervováno: prodej-pozemku-zemedelska-puda-19-304-m2-8676791/
+- Prodej pozemku, zemědělská půda, 3 040 m² — Hluzov, 121 600 Kč: prodej-pozemku-zemedelska-puda-3-040-m2-8676797/
+- Prodej pozemku, zemědělská půda, 6 953 m² — Újezd, 361 556 Kč: prodej-pozemku-zemedelska-puda-6-953-m2-8676799/
+- Prodej pozemku, zemědělská půda, 37 332 m² — Hrachoviště, 1 493 280 Kč: prodej-pozemku-zemedelska-puda-37-332-m2-8677209/
+- Prodej pozemku, zemědělská půda, 14 607 m² — Býšť, 613 494 Kč: prodej-pozemku-zemedelska-puda-14-607-m2-8677217/
+- Prodej pozemku, zemědělská půda, 7 436 m² — Býšť, 327 184 Kč: prodej-pozemku-zemedelska-puda-7-436-m2-8677221/
+- Prodej pozemku, zemědělská půda, 15 288 m² — Býšť, 657 384 Kč: prodej-pozemku-zemedelska-puda-15-288-m2-8677223/
+- Prodej pozemku, zemědělská půda, 10 084 m² — Zlámanka, 393 276 Kč: prodej-pozemku-zemedelska-puda-10-084-m2-8677227/
+- Prodej pozemku, zemědělská půda, 3 383 m² — Lubná, 128 554 Kč: prodej-pozemku-zemedelska-puda-3-383-m2-8677233/
+- Prodej pozemku, zemědělská půda, 28 169 m² — Vinary, 985 915 Kč: prodej-pozemku-zemedelska-puda-28-169-m2-8677243/
+- Prodej pozemku, zemědělská půda, 7 790 m² — Vranová, 311 600 Kč: prodej-pozemku-zemedelska-puda-7-790-m2-8677251/
+- Prodej pozemku, zemědělská půda, 15 894 m² — Ejpovice, 556 290 Kč: prodej-pozemku-zemedelska-puda-15-894-m2-8677263/
+- Prodej pozemku, zemědělská půda, 9 482 m² — Boskovice, 388 762 Kč: prodej-pozemku-zemedelska-puda-9-482-m2-8677273/
+- Prodej pozemku, zemědělská půda, 19 558 m² — Nesvačilka, 1 173 480 Kč: prodej-pozemku-zemedelska-puda-19-558-m2-8677293/
+- Prodej pozemku, zemědělská půda, 42 912 m² — Spálov, 1 673 568 Kč: prodej-pozemku-zemedelska-puda-42-912-m2-8677341/
+- Prodej pozemku, zemědělská půda, 7 508 m² — Moravský Písek, 375 400 Kč: prodej-pozemku-zemedelska-puda-7-508-m2-8677345/
+- Prodej pozemku, zemědělská půda, 17 158 m² — Spálov, 754 952 Kč: prodej-pozemku-zemedelska-puda-17-158-m2-8677351/
+- Prodej pozemku, trvalý travní porost, 11 874 m² — Spálov, 510 582 Kč: prodej-pozemku-trvaly-travni-porost-11-874-m2-8677373/
+- Prodej pozemku, zemědělská půda, 13 880 m² — Luboměř, 582 960 Kč: prodej-pozemku-zemedelska-puda-13-880-m2-8677383/
+- Prodej pozemku, zemědělská půda, 14 335 m² — Knínice, 731 085 Kč: prodej-pozemku-zemedelska-puda-14-335-m2-8677389/
+- Prodej pozemku, trvalý travní porost, 16 910 m² — Borovnice, 574 940 Kč: prodej-pozemku-trvaly-travni-porost-16-910-m2-8677393/
+- Prodej pozemku, zemědělská půda, 6 371 m² — Jenišovice, 318 550 Kč: prodej-pozemku-zemedelska-puda-6-371-m2-8677415/
+- Prodej pozemku, trvalý travní porost, 1 642 m² — Sušice II, Rezervováno: prodej-pozemku-trvaly-travni-porost-1-642-m2-8677419/
+- Prodej pozemku, zemědělská půda, 25 466 m² — Dětenice, 1 247 849 Kč: prodej-pozemku-zemedelska-puda-25-466-m2-8677477/
+- Prodej pozemku, zemědělská půda, 14 254 m² — Horní Moštěnice, 983 526 Kč: prodej-pozemku-zemedelska-puda-14-254-m2-8677839/
+- Prodej pozemku, zemědělská půda, 22 135 m² — Zborov, 575 510 Kč: prodej-pozemku-zemedelska-puda-22-135-m2-8678135/
+- Prodej pozemku, zemědělská půda, 77 267 m² — Písecká Smoleč, Rezervováno: prodej-pozemku-zemedelska-puda-77-267-m2-8678141/
+- Prodej pozemku, trvalý travní porost, 9 806 m² — Zborov, 284 374 Kč: prodej-pozemku-trvaly-travni-porost-9-806-m2-8678145/
+- Prodej pozemku, zemědělská půda, 12 329 m² — Zborov, 357 541 Kč: prodej-pozemku-zemedelska-puda-12-329-m2-8678153/
+- Prodej pozemku, trvalý travní porost, 8 707 m² — Rosice, 478 885 Kč: prodej-pozemku-trvaly-travni-porost-8-707-m2-8678173/
+- Prodej pozemku, zemědělská půda, 27 557 m² — Rosice, 1 377 850 Kč: prodej-pozemku-zemedelska-puda-27-557-m2-8678177/
+- Prodej pozemku, zemědělská půda, 27 615 m² — Křemačov, 994 140 Kč: prodej-pozemku-zemedelska-puda-27-615-m2-8678193/
+- Prodej pozemku, zemědělská půda, 26 029 m² — Mutěnice, 1 119 247 Kč: prodej-pozemku-zemedelska-puda-26-029-m2-8678209/
+- Prodej pozemku, zemědělská půda, 4 804 m² — Poštorná, 235 396 Kč: prodej-pozemku-zemedelska-puda-4-804-m2-8678303/
+- Prodej pozemku, zemědělská půda, 31 759 m² — Cholina, 2 350 166 Kč: prodej-pozemku-zemedelska-puda-31-759-m2-8678311/
+- Prodej pozemku, zemědělská půda, 7 400 m² — Stříbrnice, 584 600 Kč: prodej-pozemku-zemedelska-puda-7-400-m2-8678381/
+- Prodej pozemku, trvalý travní porost, 11 381 m² — Strašice, Rezervováno: prodej-pozemku-trvaly-travni-porost-11-381-m2-8678393/
+- Prodej pozemku, zemědělská půda, 15 627 m² — Jarošov, 625 080 Kč: prodej-pozemku-zemedelska-puda-15-627-m2-8678395/
+- Prodej pozemku, zemědělská půda, 20 401 m² — Křelov, 1 836 090 Kč: prodej-pozemku-zemedelska-puda-20-401-m2-8678793/
+- Prodej pozemku, zemědělská půda, 17 053 m² — Horka nad Moravou, 1 364 240 Kč: prodej-pozemku-zemedelska-puda-17-053-m2-8678795/
+- Prodej pozemku, zemědělská půda, 28 774 m² — Křelov, 2 589 660 Kč: prodej-pozemku-zemedelska-puda-28-774-m2-8678803/
+- Prodej pozemku, zemědělská půda, 16 805 m² — Křelov, 1 512 450 Kč: prodej-pozemku-zemedelska-puda-16-805-m2-8678807/
+- Prodej pozemku, zemědělská půda, 15 175 m² — Křelov, 1 365 750 Kč: prodej-pozemku-zemedelska-puda-15-175-m2-8678821/
+- Prodej pozemku pro komerční výstavbu, 1 139 m² — Popice, Rezervováno: prodej-pozemku-pro-komercni-vystavbu-1-139-m2-8679293/
+- Prodej pozemku, zemědělská půda, 74 853 m² — Horažďovická Lhota, 2 694 708 Kč: prodej-pozemku-zemedelska-puda-74-853-m2-8679311/
+- Prodej pozemku, zemědělská půda, 21 178 m² — Přímětice, 1 503 638 Kč: prodej-pozemku-zemedelska-puda-21-178-m2-8679313/
+- Prodej pozemku, zemědělská půda, 22 444 m² — Horažďovická Lhota, 852 872 Kč: prodej-pozemku-zemedelska-puda-22-444-m2-8679317/
+- Prodej pozemku, zemědělská půda, 17 915 m² — Starý Plzenec, 949 495 Kč: prodej-pozemku-zemedelska-puda-17-915-m2-8679319/
+- Prodej pozemku, zemědělská půda, 25 150 m² — Horažďovická Lhota, 1 031 150 Kč: prodej-pozemku-zemedelska-puda-25-150-m2-8679321/
+- Prodej pozemku, zemědělská půda, 15 395 m² — Starý Plzenec, 831 330 Kč: prodej-pozemku-zemedelska-puda-15-395-m2-8679327/
+- Prodej pozemku, zemědělská půda, 27 259 m² — Horažďovická Lhota, 1 117 619 Kč: prodej-pozemku-zemedelska-puda-27-259-m2-8679329/
+- Prodej pozemku, trvalý travní porost, 25 956 m² — Starý Plzenec, Rezervováno: prodej-pozemku-trvaly-travni-porost-25-956-m2-8679331/
+- Prodej pozemku, zemědělská půda, 4 096 m² — Popice, 253 927 Kč: prodej-pozemku-zemedelska-puda-4-096-m2-8679337/
+- Prodej pozemku, zemědělská půda, 5 566 m² — Mitrovice, 328 394 Kč: prodej-pozemku-zemedelska-puda-5-566-m2-8679343/
+- Prodej pozemku, zemědělská půda, 28 172 m² — Mitrovice, 1 267 740 Kč: prodej-pozemku-zemedelska-puda-28-172-m2-8679345/
+- Prodej pozemku, zemědělská půda, 22 606 m² — Mitrovice, 1 107 694 Kč: prodej-pozemku-zemedelska-puda-22-606-m2-8679347/
+- Prodej pozemku, zemědělská půda, 29 414 m² — Droždín, 2 206 050 Kč: prodej-pozemku-zemedelska-puda-29-414-m2-8679351/
+- Prodej pozemku, zemědělská půda, 7 535 m² — Droždín, 610 335 Kč: prodej-pozemku-zemedelska-puda-7-535-m2-8679353/
+- Prodej pozemku, zemědělská půda, 55 749 m² — Osíčko, 1 951 215 Kč: prodej-pozemku-zemedelska-puda-55-749-m2-8679357/
+- Prodej pozemku, zemědělská půda, 9 972 m² — Droždín, 777 816 Kč: prodej-pozemku-zemedelska-puda-9-972-m2-8679359/
+- Prodej pozemku, zemědělská půda, 7 122 m² — Osíčko, 292 002 Kč: prodej-pozemku-zemedelska-puda-7-122-m2-8679361/
+- Prodej pozemku, zemědělská půda, 11 907 m² — Droždín, 928 746 Kč: prodej-pozemku-zemedelska-puda-11-907-m2-8679365/
+- Prodej pozemku, zemědělská půda, 9 467 m² — Osíčko, 388 147 Kč: prodej-pozemku-zemedelska-puda-9-467-m2-8679367/
+- Prodej pozemku, zemědělská půda, 20 544 m² — Osíčko, 801 216 Kč: prodej-pozemku-zemedelska-puda-20-544-m2-8679371/
+- Prodej pozemku, zemědělská půda, 18 617 m² — Osíčko, 726 063 Kč: prodej-pozemku-zemedelska-puda-18-617-m2-8679377/
+- Prodej pozemku, zemědělská půda, 9 152 m² — Násedlovice, 485 056 Kč: prodej-pozemku-zemedelska-puda-9-152-m2-8679441/
+- Prodej pozemku, zemědělská půda, 2 741 m² — Násedlovice, Rezervováno: prodej-pozemku-zemedelska-puda-2-741-m2-8679447/
+- Prodej pozemku, zemědělská půda, 4 030 m² — Strachotín, Rezervováno: prodej-pozemku-zemedelska-puda-4-030-m2-8680055/
+- Prodej pozemku, zemědělská půda, 64 632 m² — Pičín, 3 061 516 Kč: prodej-pozemku-zemedelska-puda-64-632-m2-8680063/
+- Prodej pozemku, zemědělská půda, 13 942 m² — Městečko, 736 843 Kč: prodej-pozemku-zemedelska-puda-13-942-m2-8680069/
+- Prodej pozemku, zemědělská půda, 73 439 m² — Onomyšl, 4 700 096 Kč: prodej-pozemku-zemedelska-puda-73-439-m2-8680077/
+- Prodej pozemku pro bydlení, 14 450 m² — Nětčice, 2 972 365 Kč: prodej-pozemku-pro-bydleni-14-450-m2-8680175/
+- Prodej pozemku pro bydlení, 3 068 m² — Běluň, 1 856 140 Kč: prodej-pozemku-pro-bydleni-3-068-m2-8680177/
+- Prodej pozemku pro bydlení, 8 155 m² — Mezihoří, 759 770 Kč: prodej-pozemku-pro-bydleni-8-155-m2-8680181/
+- Prodej pozemku, trvalý travní porost, 8 155 m² — Mezihoří, 888 043 Kč: prodej-pozemku-trvaly-travni-porost-8-155-m2-8680189/
+- Prodej pozemku pro bydlení, 3 292 m² — Pavlice, 2 589 158 Kč: prodej-pozemku-pro-bydleni-3-292-m2-8680207/
+- Prodej pozemku pro bydlení, 7 715 m² — Troubky, 1 867 030 Kč: prodej-pozemku-pro-bydleni-7-715-m2-8680709/
+- Prodej pozemku, zemědělská půda, 6 983 m² — Biřkov, 265 368 Kč: prodej-pozemku-zemedelska-puda-6-983-m2-8680735/
+- Prodej pozemku, zemědělská půda, 9 343 m² — Louka, 420 435 Kč: prodej-pozemku-zemedelska-puda-9-343-m2-8680803/
+- Prodej pozemku, zemědělská půda, 8 778 m² — Žerčice, Rezervováno: prodej-pozemku-zemedelska-puda-8-778-m2-8682069/
+- Prodej pozemku, trvalý travní porost, 11 708 m² — Prostřední Poříčí, 491 736 Kč: prodej-pozemku-trvaly-travni-porost-11-708-m2-8682099/
+- Prodej pozemku, zemědělská půda, 5 481 m² — Pustověty, 285 029 Kč: prodej-pozemku-zemedelska-puda-5-481-m2-8682103/
+- Prodej pozemku, zemědělská půda, 22 392 m² — Kostelní Lhota, Rezervováno: prodej-pozemku-zemedelska-puda-22-392-m2-8682107/
+- Prodej pozemku, zemědělská půda, 9 855 m² — Jestřabí Lhota, 650 430 Kč: prodej-pozemku-zemedelska-puda-9-855-m2-8682117/
+- Prodej pozemku, zemědělská půda, 26 253 m² — Cetenov, 1 522 674 Kč: prodej-pozemku-zemedelska-puda-26-253-m2-8682137/
+- Prodej pozemku pro bydlení, 6 448 m² — Břasy, Rezervováno: prodej-pozemku-pro-bydleni-6-448-m2-8682167/
+- Prodej pozemku, zemědělská půda, 15 287 m² — Malé Hoštice, 810 211 Kč: prodej-pozemku-zemedelska-puda-15-287-m2-8682183/
+- Prodej pozemku, zemědělská půda, 8 257 m² — Záhornice, 429 364 Kč: prodej-pozemku-zemedelska-puda-8-257-m2-8682189/
+- Prodej pozemku, zemědělská půda, 3 736 m² — Bánov, 220 424 Kč: prodej-pozemku-zemedelska-puda-3-736-m2-8682197/
+- Prodej pozemku, zemědělská půda, 3 421 m² — Vyšetice, 157 366 Kč: prodej-pozemku-zemedelska-puda-3-421-m2-8682209/
+- Prodej pozemku, zemědělská půda, 21 531 m² — Veselice, 796 647 Kč: prodej-pozemku-zemedelska-puda-21-531-m2-8682249/
+- Prodej pozemku, zemědělská půda, 7 016 m² — Louky, 308 704 Kč: prodej-pozemku-zemedelska-puda-7-016-m2-8682253/
+- Prodej pozemku, zemědělská půda, 13 100 m² — Přehořov, 576 400 Kč: prodej-pozemku-zemedelska-puda-13-100-m2-8682255/
+- Prodej pozemku, zemědělská půda, 13 846 m² — Zbyslav, Rezervováno: prodej-pozemku-zemedelska-puda-13-846-m2-8682291/
+- Prodej pozemku, zemědělská půda, 30 381 m² — Popice, 1 822 860 Kč: prodej-pozemku-zemedelska-puda-30-381-m2-8682317/
+- Prodej pozemku, zemědělská půda, 5 817 m² — Zvole, Rezervováno: prodej-pozemku-zemedelska-puda-5-817-m2-8682393/
+- Prodej pozemku, zemědělská půda, 6 005 m² — Starý Poddvorov, 222 185 Kč: prodej-pozemku-zemedelska-puda-6-005-m2-8682399/
+- Prodej pozemku, zemědělská půda, 2 636 m² — Boršice, 121 333 Kč: prodej-pozemku-zemedelska-puda-2-636-m2-8682463/
+- Prodej pozemku, zemědělská půda, 38 219 m² — Horka, 1 949 169 Kč: prodej-pozemku-zemedelska-puda-38-219-m2-8682511/
+- Prodej pozemku, zemědělská půda, 25 810 m² — Chodeč, 1 264 690 Kč: prodej-pozemku-zemedelska-puda-25-810-m2-8682521/
+- Prodej pozemku, zemědělská půda, 105 347 m² — Loukov, 5 267 350 Kč: prodej-pozemku-zemedelska-puda-105-347-m2-8682557/
+- Prodej pozemku, zemědělská půda, 24 814 m² — Křešín, 1 175 400 Kč: prodej-pozemku-zemedelska-puda-24-814-m2-8682567/
+- Prodej pozemku pro bydlení, 3 741 m² — Víceměřice, 2 353 837 Kč: prodej-pozemku-pro-bydleni-3-741-m2-8682597/
+- Prodej pozemku, zemědělská půda, 16 340 m² — Ostrov, 755 397 Kč: prodej-pozemku-zemedelska-puda-16-340-m2-8682599/
+- Prodej pozemku, zemědělská půda, 6 269 m² — Třemošná, 344 795 Kč: prodej-pozemku-zemedelska-puda-6-269-m2-8684569/
+- Prodej pozemku, zemědělská půda, 10 761 m² — Příluky, Rezervováno: prodej-pozemku-zemedelska-puda-10-761-m2-8684611/
+- Prodej pozemku, zemědělská půda, 12 959 m² — Lažánky, 505 401 Kč: prodej-pozemku-zemedelska-puda-12-959-m2-8684623/
+- Prodej pozemku, trvalý travní porost, 33 310 m² — Starý Plzenec, 1 632 190 Kč: prodej-pozemku-trvaly-travni-porost-33-310-m2-8684633/
+- Prodej pozemku, zemědělská půda, 91 762 m² — Kramolín, 4 129 290 Kč: prodej-pozemku-zemedelska-puda-91-762-m2-8684653/
+- Prodej pozemku, zemědělská půda, 15 608 m² — Kramolín, 764 792 Kč: prodej-pozemku-zemedelska-puda-15-608-m2-8684657/
+- Prodej pozemku, zemědělská půda, 19 007 m² — Kramolín, 931 319 Kč: prodej-pozemku-zemedelska-puda-19-007-m2-8684667/
+- Prodej pozemku, zemědělská půda, 34 400 m² — Kramolín, 1 685 576 Kč: prodej-pozemku-zemedelska-puda-34-400-m2-8684681/
+- Prodej pozemku, zemědělská půda, 11 760 m² — Kramolín, 599 760 Kč: prodej-pozemku-zemedelska-puda-11-760-m2-8684691/
+- Prodej pozemku, zemědělská půda, 10 988 m² — Kramolín, 560 388 Kč: prodej-pozemku-zemedelska-puda-10-988-m2-8684703/
+- Prodej pozemku pro bydlení, 3 337 m² — Újezd, 1 291 893 Kč: prodej-pozemku-pro-bydleni-3-337-m2-8684851/
+- Prodej pozemku, zemědělská půda, 14 942 m² — Kovářov, 657 437 Kč: prodej-pozemku-zemedelska-puda-14-942-m2-8685967/
+- Prodej pozemku, zemědělská půda, 12 503 m² — Kozojedy, 800 160 Kč: prodej-pozemku-zemedelska-puda-12-503-m2-8686449/
+- Prodej pozemku pro komerční výstavbu, 17 433 m² — Kobylí, 801 918 Kč: prodej-pozemku-pro-komercni-vystavbu-17-433-m2-8688395/
+- Prodej pozemku pro komerční výstavbu, 6 109 m² — Kobylí, 305 450 Kč: prodej-pozemku-pro-komercni-vystavbu-6-109-m2-8688399/
+- Prodej pozemku, zemědělská půda, 10 152 m² — Tlučná, 517 752 Kč: prodej-pozemku-zemedelska-puda-10-152-m2-8689649/
+- Prodej pozemku, les, 7 352 m² — Žďárek, Rezervováno: prodej-pozemku-les-7-352-m2-8689663/
+- Prodej pozemku, zemědělská půda, 7 360 m² — Násedlovice, 368 000 Kč: prodej-pozemku-zemedelska-puda-7-360-m2-8689671/
+- Prodej pozemku, les, 10 814 m² — Horní Hradiště, 335 234 Kč: prodej-pozemku-les-10-814-m2-8689679/
+- Prodej pozemku, zemědělská půda, 14 542 m² — Kostelec, 1 017 940 Kč: prodej-pozemku-zemedelska-puda-14-542-m2-8689683/
+- Prodej pozemku, zemědělská půda, 2 501 m² — Zubří, 142 529 Kč: prodej-pozemku-zemedelska-puda-2-501-m2-8689695/
+- Prodej pozemku, zemědělská půda, 2 109 m² — Chropyně, 94 890 Kč: prodej-pozemku-zemedelska-puda-2-109-m2-8689717/
+- Prodej pozemku, zemědělská půda, 2 521 m² — Veselí nad Lužnicí I, Rezervováno: prodej-pozemku-zemedelska-puda-2-521-m2-8689721/
+- Prodej pozemku, zemědělská půda, 2 892 m² — Troubky, 144 600 Kč: prodej-pozemku-zemedelska-puda-2-892-m2-8689727/
+- Prodej pozemku, zemědělská půda, 2 238 m² — Skála, 100 710 Kč: prodej-pozemku-zemedelska-puda-2-238-m2-8689731/
+- Prodej pozemku, zemědělská půda, 5 124 m² — Tetov, 338 184 Kč: prodej-pozemku-zemedelska-puda-5-124-m2-8689745/
+- Prodej pozemku, zemědělská půda, 11 676 m² — Všeradice, 583 800 Kč: prodej-pozemku-zemedelska-puda-11-676-m2-8689759/
+- Prodej pozemku, zemědělská půda, 13 118 m² — Šošůvka, 498 484 Kč: prodej-pozemku-zemedelska-puda-13-118-m2-8689779/
+- Prodej pozemku, zemědělská půda, 5 992 m² — Škvorec, 778 960 Kč: prodej-pozemku-zemedelska-puda-5-992-m2-8689783/
+- Prodej pozemku, zemědělská půda, 7 038 m² — Spytihněv, 351 875 Kč: prodej-pozemku-zemedelska-puda-7-038-m2-8689819/
+- Prodej pozemku, zemědělská půda, 29 266 m² — Radčice, 1 580 364 Kč: prodej-pozemku-zemedelska-puda-29-266-m2-8689823/
+- Prodej pozemku, zemědělská půda, 2 875 m² — Všetaty, 161 000 Kč: prodej-pozemku-zemedelska-puda-2-875-m2-8689875/
+- Prodej pozemku, zemědělská půda, 5 383 m² — Vracov, 236 830 Kč: prodej-pozemku-zemedelska-puda-5-383-m2-8689907/
+- Prodej pozemku, zemědělská půda, 5 979 m² — Poříčí, Rezervováno: prodej-pozemku-zemedelska-puda-5-979-m2-8689909/
+- Prodej pozemku pro bydlení, 7 025 m² — Kvaň, 10 200 300 Kč: prodej-pozemku-pro-bydleni-7-025-m2-8689923/
+- Prodej pozemku, zemědělská půda, 10 493 m² — Slavonín, 828 908 Kč: prodej-pozemku-zemedelska-puda-10-493-m2-8689949/
+- Prodej pozemku, zemědělská půda, 4 649 m² — Nížkovice, 269 642 Kč: prodej-pozemku-zemedelska-puda-4-649-m2-8689957/
+- Prodej pozemku, trvalý travní porost, 22 250 m² — Neštěmice, 1 223 750 Kč: prodej-pozemku-trvaly-travni-porost-22-250-m2-8689979/
+- Prodej pozemku, zemědělská půda, 2 493 m² — Odolenovice, 79 772 Kč: prodej-pozemku-zemedelska-puda-2-493-m2-8689981/
+- Prodej pozemku, zemědělská půda, 4 376 m² — Liblice, 245 072 Kč: prodej-pozemku-zemedelska-puda-4-376-m2-8689995/
+- Prodej pozemku, zemědělská půda, 18 367 m² — Morkovice, Rezervováno: prodej-pozemku-zemedelska-puda-18-367-m2-8690025/
+- Prodej pozemku, zemědělská půda, 11 167 m² — Lovčice, 446 680 Kč: prodej-pozemku-zemedelska-puda-11-167-m2-8690031/
+- Prodej pozemku, les, 23 194 m² — Stebno, 719 014 Kč: prodej-pozemku-les-23-194-m2-8690073/
+- Prodej pozemku, zemědělská půda, 23 339 m² — Dolní Dobrouč, Rezervováno: prodej-pozemku-zemedelska-puda-23-339-m2-8690089/
+- Prodej pozemku, zemědělská půda, 7 136 m² — Rudná, 635 104 Kč: prodej-pozemku-zemedelska-puda-7-136-m2-8690097/
+- Prodej pozemku, zemědělská půda, 4 183 m² — Brumovice, 255 163 Kč: prodej-pozemku-zemedelska-puda-4-183-m2-8690109/
+- Prodej pozemku, zemědělská půda, 16 398 m² — Huť, 901 890 Kč: prodej-pozemku-zemedelska-puda-16-398-m2-8690111/
+- Prodej pozemku, zemědělská půda, 10 025 m² — Bechov, 481 200 Kč: prodej-pozemku-zemedelska-puda-10-025-m2-8690137/
+- Prodej pozemku, zemědělská půda, 72 825 m² — Tchořovice, 3 277 125 Kč: prodej-pozemku-zemedelska-puda-72-825-m2-8690149/
+- Prodej pozemku, zemědělská půda, 17 266 m² — Tchořovice, 811 502 Kč: prodej-pozemku-zemedelska-puda-17-266-m2-8690157/
+- Prodej pozemku, zemědělská půda, 21 589 m² — Tchořovice, 1 057 861 Kč: prodej-pozemku-zemedelska-puda-21-589-m2-8690169/
+- Prodej pozemku, zemědělská půda, 33 970 m² — Tchořovice, 1 664 530 Kč: prodej-pozemku-zemedelska-puda-33-970-m2-8690187/
+- Prodej pozemku, zemědělská půda, 10 657 m² — Svratka, 532 850 Kč: prodej-pozemku-zemedelska-puda-10-657-m2-8690215/
+- Prodej pozemku, zemědělská půda, 5 671 m² — Svatobořice, 300 563 Kč: prodej-pozemku-zemedelska-puda-5-671-m2-8690219/
+- Prodej pozemku, zemědělská půda, 7 076 m² — Rousínov, 346 724 Kč: prodej-pozemku-zemedelska-puda-7-076-m2-8690223/
+- Prodej pozemku, zemědělská půda, 10 394 m² — Rosice, 509 306 Kč: prodej-pozemku-zemedelska-puda-10-394-m2-8690257/
+- Prodej pozemku, zemědělská půda, 4 745 m² — Rosice, 223 015 Kč: prodej-pozemku-zemedelska-puda-4-745-m2-8690261/
+- Prodej pozemku, trvalý travní porost, 14 935 m² — Branná, 731 815 Kč: prodej-pozemku-trvaly-travni-porost-14-935-m2-8690265/
+- Prodej pozemku, zemědělská půda, 15 140 m² — Chrast, 681 300 Kč: prodej-pozemku-zemedelska-puda-15-140-m2-8690267/
+- Prodej pozemku, zemědělská půda, 25 654 m² — Úhřetická Lhota, 1 282 700 Kč: prodej-pozemku-zemedelska-puda-25-654-m2-8690291/
+- Prodej pozemku, zemědělská půda, 11 814 m² — Jedousov, 531 630 Kč: prodej-pozemku-zemedelska-puda-11-814-m2-8690297/
+- Prodej pozemku, zemědělská půda, 17 608 m² — Úhřetická Lhota, 915 616 Kč: prodej-pozemku-zemedelska-puda-17-608-m2-8690299/
+- Prodej pozemku, zemědělská půda, 8 046 m² — Hostovice, 434 484 Kč: prodej-pozemku-zemedelska-puda-8-046-m2-8690311/
+- Prodej pozemku, zemědělská půda, 3 239 m² — Moravský Písek, 158 711 Kč: prodej-pozemku-zemedelska-puda-3-239-m2-8690313/
+- Prodej pozemku, zemědělská půda, 22 168 m² — Komušín, 620 704 Kč: prodej-pozemku-zemedelska-puda-22-168-m2-8690319/
+- Prodej pozemku, les, 10 763 m² — Komušín, 322 890 Kč: prodej-pozemku-les-10-763-m2-8690323/
+- Prodej pozemku, zemědělská půda, 3 987 m² — Komušín, 135 558 Kč: prodej-pozemku-zemedelska-puda-3-987-m2-8690325/
+- Prodej pozemku, trvalý travní porost, 7 418 m² — Horažďovice, 244 794 Kč: prodej-pozemku-trvaly-travni-porost-7-418-m2-8690329/
+- Prodej pozemku, zemědělská půda, 8 020 m² — Dřísy, Rezervováno: prodej-pozemku-zemedelska-puda-8-020-m2-8690333/
+- Prodej pozemku, zemědělská půda, 15 256 m² — Višňové, 717 032 Kč: prodej-pozemku-zemedelska-puda-15-256-m2-8690339/
+- Prodej pozemku, zemědělská půda, 8 223 m² — Pechova Lhota, 328 920 Kč: prodej-pozemku-zemedelska-puda-8-223-m2-8690341/
+- Prodej pozemku, zemědělská půda, 15 867 m² — Vintířov, 666 414 Kč: prodej-pozemku-zemedelska-puda-15-867-m2-8690349/
+- Prodej pozemku, trvalý travní porost, 6 221 m² — Dolní Nětčice, 267 503 Kč: prodej-pozemku-trvaly-travni-porost-6-221-m2-8690351/
+- Prodej pozemku, zemědělská půda, 6 827 m² — Lhota, 402 793 Kč: prodej-pozemku-zemedelska-puda-6-827-m2-8690361/
+- Prodej pozemku, zemědělská půda, 21 681 m² — Načeradec, 1 040 688 Kč: prodej-pozemku-zemedelska-puda-21-681-m2-8690371/
+- Prodej pozemku, zemědělská půda, 18 767 m² — Meziříčko, 713 146 Kč: prodej-pozemku-zemedelska-puda-18-767-m2-8690377/
+- Prodej pozemku, zemědělská půda, 15 472 m² — Traplice, 556 992 Kč: prodej-pozemku-zemedelska-puda-15-472-m2-8690381/
+- Prodej pozemku, zemědělská půda, 19 471 m² — Lovčice, 642 543 Kč: prodej-pozemku-zemedelska-puda-19-471-m2-8690391/
+- Prodej pozemku, trvalý travní porost, 12 940 m² — Kolesa, 569 360 Kč: prodej-pozemku-trvaly-travni-porost-12-940-m2-8690395/
+- Prodej pozemku, zemědělská půda, 3 981 m² — Žeraviny, 163 221 Kč: prodej-pozemku-zemedelska-puda-3-981-m2-8690413/
+- Prodej pozemku, zemědělská půda, 2 880 m² — Mistřín, 118 080 Kč: prodej-pozemku-zemedelska-puda-2-880-m2-8690431/
+- Prodej pozemku, zemědělská půda, 5 868 m² — Kuchařovice, 440 100 Kč: prodej-pozemku-zemedelska-puda-5-868-m2-8690433/
+- Prodej pozemku, zemědělská půda, 3 831 m² — Dnešice, 149 409 Kč: prodej-pozemku-zemedelska-puda-3-831-m2-8690439/
+- Prodej pozemku, zemědělská půda, 6 261 m² — Kostelany, 237 918 Kč: prodej-pozemku-zemedelska-puda-6-261-m2-8690441/
+- Prodej pozemku, zemědělská půda, 15 820 m² — Leskovec nad Moravicí, Rezervováno: prodej-pozemku-zemedelska-puda-15-820-m2-8690443/
+- Prodej pozemku, zemědělská půda, 3 984 m² — Chvalčov, 155 376 Kč: prodej-pozemku-zemedelska-puda-3-984-m2-8690449/
+- Prodej pozemku, zemědělská půda, 9 686 m² — Prostřední Poříčí, Rezervováno: prodej-pozemku-zemedelska-puda-9-686-m2-8690453/
+- Prodej pozemku, zemědělská půda, 1 986 m² — Podhořany u Ronova, 83 412 Kč: prodej-pozemku-zemedelska-puda-1-986-m2-8690459/
+- Prodej pozemku, zemědělská půda, 7 163 m² — Klobouky u Brna, 322 335 Kč: prodej-pozemku-zemedelska-puda-7-163-m2-8690461/
+- Prodej pozemku, zemědělská půda, 14 245 m² — Ptáčov, Rezervováno: prodej-pozemku-zemedelska-puda-14-245-m2-8690471/
+- Prodej pozemku, les, 14 245 m² — Ptáčov, Rezervováno: prodej-pozemku-les-14-245-m2-8690479/
+- Prodej pozemku, trvalý travní porost, 14 245 m² — Ptáčov, Rezervováno: prodej-pozemku-trvaly-travni-porost-14-245-m2-8690481/
+- Prodej pozemku, trvalý travní porost, 6 601 m² — Litovel, 237 636 Kč: prodej-pozemku-trvaly-travni-porost-6-601-m2-8690483/
+- Prodej pozemku, trvalý travní porost, 8 061 m² — Doubravice, 370 818 Kč: prodej-pozemku-trvaly-travni-porost-8-061-m2-8690495/
+- Prodej pozemku, zemědělská půda, 5 235 m² — Habry, 204 165 Kč: prodej-pozemku-zemedelska-puda-5-235-m2-8690499/
+- Prodej pozemku, zemědělská půda, 9 549 m² — Domamil, 477 450 Kč: prodej-pozemku-zemedelska-puda-9-549-m2-8690545/
+- Prodej pozemku, zemědělská půda, 4 226 m² — Újezd u Černé Hory, 135 232 Kč: prodej-pozemku-zemedelska-puda-4-226-m2-8690549/
+- Prodej pozemku, zemědělská půda, 5 676 m² — Dobré Pole, 624 360 Kč: prodej-pozemku-zemedelska-puda-5-676-m2-8690555/
+- Prodej pozemku, zemědělská půda, 7 462 m² — Moravský Písek, 440 229 Kč: prodej-pozemku-zemedelska-puda-7-462-m2-8690565/
+- Prodej pozemku, zemědělská půda, 12 700 m² — Bzenec, 495 300 Kč: prodej-pozemku-zemedelska-puda-12-700-m2-8690575/
+- Prodej pozemku, zemědělská půda, 15 337 m² — Bojanovice, 1 257 634 Kč: prodej-pozemku-zemedelska-puda-15-337-m2-8690581/
+- Prodej pozemku, zemědělská půda, 15 002 m² — Vranová Lhota, Rezervováno: prodej-pozemku-zemedelska-puda-15-002-m2-8690585/
+- Prodej pozemku, trvalý travní porost, 21 874 m² — Huntířov, 587 819 Kč: prodej-pozemku-trvaly-travni-porost-21-874-m2-8690605/
+- Prodej pozemku, zemědělská půda, 51 824 m² — Stéblová, 1 658 368 Kč: prodej-pozemku-zemedelska-puda-51-824-m2-8690619/
+- Prodej pozemku, zahrada, 428 m² — Osíčko, 98 397 Kč: prodej-pozemku-zahrada-428-m2-8690621/
+- Prodej pozemku pro bydlení, 1 085 m² — Opatovice, 433 041 Kč: prodej-pozemku-pro-bydleni-1-085-m2-8690635/
+- Prodej pozemku, zemědělská půda, 82 909 m² — Tlestky, 4 477 086 Kč: prodej-pozemku-zemedelska-puda-82-909-m2-8690707/
+- Prodej pozemku, zemědělská půda, 79 106 m² — Vrbka, 4 509 042 Kč: prodej-pozemku-zemedelska-puda-79-106-m2-8690815/
+- Prodej pozemku, zemědělská půda, 31 356 m² — Ronov nad Doubravou, 1 442 376 Kč: prodej-pozemku-zemedelska-puda-31-356-m2-8690821/
+- Prodej pozemku, zemědělská půda, 152 320 m² — Lhotka, 8 016 602 Kč: prodej-pozemku-zemedelska-puda-152-320-m2-8690825/
+- Prodej pozemku, zemědělská půda, 261 982 m² — Lhotka, 13 788 527 Kč: prodej-pozemku-zemedelska-puda-261-982-m2-8690827/
+- Prodej pozemku, zemědělská půda, 46 020 m² — Lhotka, 2 422 033 Kč: prodej-pozemku-zemedelska-puda-46-020-m2-8690833/
+- Prodej pozemku, zemědělská půda, 57 708 m² — Lhotka, 3 037 172 Kč: prodej-pozemku-zemedelska-puda-57-708-m2-8690845/
+- Prodej pozemku, zemědělská půda, 69 111 m² — Perná, 5 459 769 Kč: prodej-pozemku-zemedelska-puda-69-111-m2-8690849/
+- Prodej pozemku, zemědělská půda, 10 860 m² — Klobouky u Brna, 521 280 Kč: prodej-pozemku-zemedelska-puda-10-860-m2-8691789/
+- Prodej pozemku, zemědělská půda, 4 801 m² — Svojšice, 225 647 Kč: prodej-pozemku-zemedelska-puda-4-801-m2-8691791/
+- Prodej pozemku, zemědělská půda, 4 617 m² — Dřísy, Rezervováno: prodej-pozemku-zemedelska-puda-4-617-m2-8691813/
+- Prodej pozemku, trvalý travní porost, 34 832 m² — Dolní Marklovice, 1 915 760 Kč: prodej-pozemku-trvaly-travni-porost-34-832-m2-8691817/
+- Prodej pozemku, zemědělská půda, 42 739 m² — Těšovice, 2 179 689 Kč: prodej-pozemku-zemedelska-puda-42-739-m2-8692575/
+- Prodej pozemku, zemědělská půda, 9 909 m² — Světlice, 485 541 Kč: prodej-pozemku-zemedelska-puda-9-909-m2-8692801/
+- Prodej pozemku, trvalý travní porost, 3 524 m² — Kravaře, 169 152 Kč: prodej-pozemku-trvaly-travni-porost-3-524-m2-8692929/
+- Prodej pozemku, zemědělská půda, 2 440 m² — Kloboučky, 124 440 Kč: prodej-pozemku-zemedelska-puda-2-440-m2-8692943/
+- Prodej pozemku, zemědělská půda, 83 649 m² — Hranice III-Velká, Rezervováno: prodej-pozemku-zemedelska-puda-83-649-m2-8692945/
+- Prodej pozemku, zemědělská půda, 6 254 m² — Hrabí, 343 970 Kč: prodej-pozemku-zemedelska-puda-6-254-m2-8692963/
+- Prodej pozemku, trvalý travní porost, 22 044 m² — Ledeč nad Sázavou, 1 212 420 Kč: prodej-pozemku-trvaly-travni-porost-22-044-m2-8692969/
+- Prodej pozemku, zemědělská půda, 11 440 m² — Rousínov, 686 370 Kč: prodej-pozemku-zemedelska-puda-11-440-m2-8692991/
+- Prodej pozemku pro bydlení, 24 219 m² — Čisovice, 21 978 743 Kč: prodej-pozemku-pro-bydleni-24-219-m2-8693361/
+- Prodej pozemku, trvalý travní porost, 4 986 m² — Sklenářovice, 976 734 Kč: prodej-pozemku-trvaly-travni-porost-4-986-m2-8693375/
+- Prodej pozemku, zemědělská půda, 52 131 m² — Kandia, 2 554 419 Kč: prodej-pozemku-zemedelska-puda-52-131-m2-8694441/
+- Prodej pozemku pro bydlení, 2 647 m² — Stará Roveň, 640 574 Kč: prodej-pozemku-pro-bydleni-2-647-m2-8694521/
+- Prodej pozemku pro bydlení, 1 327 m² — Stará Roveň, 353 247 Kč: prodej-pozemku-pro-bydleni-1-327-m2-8694531/
+- Prodej pozemku pro bydlení, 1 320 m² — Stará Roveň, 351 384 Kč: prodej-pozemku-pro-bydleni-1-320-m2-8694541/
+- Prodej pozemku, zemědělská půda, 18 301 m² — Velké Opatovice, 860 147 Kč: prodej-pozemku-zemedelska-puda-18-301-m2-8695827/
+- Prodej pozemku, zemědělská půda, 12 562 m² — Trávník, 904 464 Kč: prodej-pozemku-zemedelska-puda-12-562-m2-8695867/
+- Prodej pozemku, zemědělská půda, 6 586 m² — Morkůvky, 289 784 Kč: prodej-pozemku-zemedelska-puda-6-586-m2-8695893/
+- Prodej pozemku, trvalý travní porost, 6 018 m² — Lhotka, 264 792 Kč: prodej-pozemku-trvaly-travni-porost-6-018-m2-8695919/
+- Prodej pozemku, zemědělská půda, 14 294 m² — Lhotka, 786 170 Kč: prodej-pozemku-zemedelska-puda-14-294-m2-8695943/
+- Prodej pozemku, zemědělská půda, 7 967 m² — Zdounky, 358 515 Kč: prodej-pozemku-zemedelska-puda-7-967-m2-8695979/
+- Prodej pozemku, zemědělská půda, 10 714 m² — Kostelní Lhota, 739 266 Kč: prodej-pozemku-zemedelska-puda-10-714-m2-8695983/
+- Prodej pozemku, trvalý travní porost, 10 721 m² — Suchdol, 375 235 Kč: prodej-pozemku-trvaly-travni-porost-10-721-m2-8695989/
+- Prodej pozemku, trvalý travní porost, 5 877 m² — Proseč, 235 080 Kč: prodej-pozemku-trvaly-travni-porost-5-877-m2-8695993/
+- Prodej pozemku, zemědělská půda, 22 664 m² — Horní Němčí, 929 224 Kč: prodej-pozemku-zemedelska-puda-22-664-m2-8695995/
+- Prodej pozemku, zemědělská půda, 8 631 m² — Trhové Dušníky, 457 443 Kč: prodej-pozemku-zemedelska-puda-8-631-m2-8696025/
+- Prodej pozemku, zemědělská půda, 8 631 m² — Trhové Dušníky, 457 443 Kč: prodej-pozemku-zemedelska-puda-8-631-m2-8696027/
+- Prodej pozemku, zemědělská půda, 43 682 m² — Zvěrotice, 2 358 828 Kč: prodej-pozemku-zemedelska-puda-43-682-m2-8696035/
+- Prodej pozemku, zemědělská půda, 26 209 m² — Vrchovina, 1 231 823 Kč: prodej-pozemku-zemedelska-puda-26-209-m2-8696043/
+- Prodej pozemku, zemědělská půda, 16 055 m² — Zvěrotice, 866 970 Kč: prodej-pozemku-zemedelska-puda-16-055-m2-8696045/
+- Prodej pozemku, trvalý travní porost, 11 696 m² — Zvěrotice, 678 368 Kč: prodej-pozemku-trvaly-travni-porost-11-696-m2-8696049/
+- Prodej pozemku, zemědělská půda, 15 932 m² — Sedlečko u Soběslavě, 924 056 Kč: prodej-pozemku-zemedelska-puda-15-932-m2-8696053/
+- Prodej pozemku, zemědělská půda, 31 498 m² — Hostice, 1 165 426 Kč: prodej-pozemku-zemedelska-puda-31-498-m2-8696065/
+- Prodej pozemku, zemědělská půda, 6 549 m² — Hostice, 255 411 Kč: prodej-pozemku-zemedelska-puda-6-549-m2-8696069/
+- Prodej pozemku, trvalý travní porost, 15 330 m² — Hostice, 613 200 Kč: prodej-pozemku-trvaly-travni-porost-15-330-m2-8696071/
+- Prodej pozemku, trvalý travní porost, 9 619 m² — Hostice, 365 522 Kč: prodej-pozemku-trvaly-travni-porost-9-619-m2-8696079/
+- Prodej pozemku, zemědělská půda, 5 611 m² — Bezděkov, 347 882 Kč: prodej-pozemku-zemedelska-puda-5-611-m2-8696091/
+- Prodej pozemku pro komerční výstavbu, 4 613 m² — Prušánky, 230 650 Kč: prodej-pozemku-pro-komercni-vystavbu-4-613-m2-8696103/
+- Prodej pozemku, zemědělská půda, 9 696 m² — Omice, 562 368 Kč: prodej-pozemku-zemedelska-puda-9-696-m2-8696131/
+- Prodej pozemku, trvalý travní porost, 12 477 m² — Libunec, 461 649 Kč: prodej-pozemku-trvaly-travni-porost-12-477-m2-8696137/
+- Prodej pozemku, zemědělská půda, 11 877 m² — Prušánky, 522 588 Kč: prodej-pozemku-zemedelska-puda-11-877-m2-8696147/
+- Prodej pozemku, zemědělská půda, 10 196 m² — Lipov, 509 800 Kč: prodej-pozemku-zemedelska-puda-10-196-m2-8696157/
+- Prodej pozemku, zemědělská půda, 14 223 m² — Lipov, 696 927 Kč: prodej-pozemku-zemedelska-puda-14-223-m2-8696159/
+- Prodej pozemku, zemědělská půda, 25 068 m² — Prušánky, 1 052 856 Kč: prodej-pozemku-zemedelska-puda-25-068-m2-8696161/
+- Prodej pozemku, zemědělská půda, 8 579 m² — Prušánky, 463 266 Kč: prodej-pozemku-zemedelska-puda-8-579-m2-8696165/
+- Prodej pozemku, zemědělská půda, 24 419 m² — Lipov, 1 123 274 Kč: prodej-pozemku-zemedelska-puda-24-419-m2-8696187/
+- Prodej pozemku, zemědělská půda, 33 894 m² — Bečice, 1 525 230 Kč: prodej-pozemku-zemedelska-puda-33-894-m2-8696239/
+- Prodej pozemku pro komerční výstavbu, 7 390 m² — Dobré Pole, 391 670 Kč: prodej-pozemku-pro-komercni-vystavbu-7-390-m2-8696269/
+- Prodej pozemku, zemědělská půda, 7 818 m² — Dobré Pole, 414 354 Kč: prodej-pozemku-zemedelska-puda-7-818-m2-8696273/
+- Prodej pozemku, zemědělská půda, 3 053 m² — Žalany, 149 597 Kč: prodej-pozemku-zemedelska-puda-3-053-m2-8696279/
+- Prodej pozemku, zemědělská půda, 5 446 m² — Skoronice, 234 178 Kč: prodej-pozemku-zemedelska-puda-5-446-m2-8696299/
+- Prodej pozemku, zemědělská půda, 4 316 m² — Zbyslavec, 207 168 Kč: prodej-pozemku-zemedelska-puda-4-316-m2-8696301/
+- Prodej pozemku, trvalý travní porost, 19 893 m² — Zaječice, 696 255 Kč: prodej-pozemku-trvaly-travni-porost-19-893-m2-8696303/
+- Prodej pozemku, zemědělská půda, 13 380 m² — Pouzdřany, 561 960 Kč: prodej-pozemku-zemedelska-puda-13-380-m2-8696311/
+- Prodej pozemku, zemědělská půda, 9 978 m² — Blanné, 638 592 Kč: prodej-pozemku-zemedelska-puda-9-978-m2-8696317/
+- Prodej pozemku, zemědělská půda, 16 519 m² — Újezdsko, 677 279 Kč: prodej-pozemku-zemedelska-puda-16-519-m2-8696325/
+- Prodej pozemku, zemědělská půda, 2 287 m² — Sušice, 112 063 Kč: prodej-pozemku-zemedelska-puda-2-287-m2-8696329/
+- Prodej pozemku, zemědělská půda, 3 032 m² — Vlachov, Rezervováno: prodej-pozemku-zemedelska-puda-3-032-m2-8696363/
+- Prodej pozemku, trvalý travní porost, 16 501 m² — Nové Lublice, 660 040 Kč: prodej-pozemku-trvaly-travni-porost-16-501-m2-8696367/
+- Prodej pozemku, zemědělská půda, 16 501 m² — Nové Lublice, 660 040 Kč: prodej-pozemku-zemedelska-puda-16-501-m2-8696389/
+- Prodej pozemku, zemědělská půda, 16 229 m² — Kelč, 503 099 Kč: prodej-pozemku-zemedelska-puda-16-229-m2-8696391/
+- Prodej pozemku, zemědělská půda, 13 999 m² — Stará Roveň, 461 967 Kč: prodej-pozemku-zemedelska-puda-13-999-m2-8696395/
+- Prodej pozemku, zemědělská půda, 22 612 m² — Libosváry, Rezervováno: prodej-pozemku-zemedelska-puda-22-612-m2-8696403/
+- Prodej pozemku, zemědělská půda, 13 951 m² — Liblice, 864 962 Kč: prodej-pozemku-zemedelska-puda-13-951-m2-8696417/
+- Prodej pozemku, zemědělská půda, 20 862 m² — Stará Roveň, 500 688 Kč: prodej-pozemku-zemedelska-puda-20-862-m2-8696423/
+- Prodej pozemku, trvalý travní porost, 6 863 m² — Stará Roveň, 226 479 Kč: prodej-pozemku-trvaly-travni-porost-6-863-m2-8696425/
+- Prodej pozemku, zemědělská půda, 5 735 m² — Staré Město, 292 502 Kč: prodej-pozemku-zemedelska-puda-5-735-m2-8696435/
+- Prodej pozemku, zemědělská půda, 26 087 m² — Postřižín, Rezervováno: prodej-pozemku-zemedelska-puda-26-087-m2-8696455/
+- Prodej pozemku, zemědělská půda, 13 193 m² — Lhota, 580 492 Kč: prodej-pozemku-zemedelska-puda-13-193-m2-8696457/
+- Prodej pozemku, zemědělská půda, 5 313 m² — Stará Paka, 260 579 Kč: prodej-pozemku-zemedelska-puda-5-313-m2-8696469/
+- Prodej pozemku, zemědělská půda, 10 445 m² — Násedlovice, 511 805 Kč: prodej-pozemku-zemedelska-puda-10-445-m2-8696473/
+- Prodej pozemku, zemědělská půda, 3 086 m² — Horoušany, 222 192 Kč: prodej-pozemku-zemedelska-puda-3-086-m2-8696481/
+- Prodej pozemku, zemědělská půda, 11 770 m² — Napajedla, 564 960 Kč: prodej-pozemku-zemedelska-puda-11-770-m2-8696515/
+- Prodej pozemku, zemědělská půda, 69 054 m² — Kamenice, 3 107 430 Kč: prodej-pozemku-zemedelska-puda-69-054-m2-8696529/
+- Prodej pozemku, zemědělská půda, 54 364 m² — Pavlínov, 2 609 472 Kč: prodej-pozemku-zemedelska-puda-54-364-m2-8696537/
+- Prodej pozemku, zemědělská půda, 14 690 m² — Kamenice, 719 810 Kč: prodej-pozemku-zemedelska-puda-14-690-m2-8696547/
+- Prodej pozemku, zemědělská půda, 24 656 m² — Kučerov, 1 454 704 Kč: prodej-pozemku-zemedelska-puda-24-656-m2-8696553/
+- Prodej pozemku, zemědělská půda, 31 302 m² — Golčův Jeníkov, 1 721 610 Kč: prodej-pozemku-zemedelska-puda-31-302-m2-8696561/
+- Prodej pozemku, zemědělská půda, 7 612,5 m² — Hradišťko II, Rezervováno: prodej-pozemku-zemedelska-puda-7-612-5-m2-8696613/
+- Prodej pozemku, zemědělská půda, 2 661 m² — Milčice, Rezervováno: prodej-pozemku-zemedelska-puda-2-661-m2-8696635/
+- Prodej pozemku, zemědělská půda, 6 293 m² — Kvítkovice, 387 517 Kč: prodej-pozemku-zemedelska-puda-6-293-m2-8696653/
+- Prodej pozemku, zemědělská půda, 10 947 m² — Roštění, 437 880 Kč: prodej-pozemku-zemedelska-puda-10-947-m2-8696659/
+- Prodej pozemku, trvalý travní porost, 3 176 m² — Hynčina, 95 280 Kč: prodej-pozemku-trvaly-travni-porost-3-176-m2-8696673/
+- Prodej pozemku, zemědělská půda, 27 123 m² — Úherce, Rezervováno: prodej-pozemku-zemedelska-puda-27-123-m2-8696677/
+- Prodej pozemku, zemědělská půda, 25 300 m² — Popice, 1 619 200 Kč: prodej-pozemku-zemedelska-puda-25-300-m2-8696687/
+- Prodej pozemku, zemědělská půda, 7 141 m² — Popice, 485 588 Kč: prodej-pozemku-zemedelska-puda-7-141-m2-8696693/
+- Prodej pozemku, zemědělská půda, 9 706 m² — Lažany, 300 886 Kč: prodej-pozemku-zemedelska-puda-9-706-m2-8696697/
+- Prodej pozemku, zemědělská půda, 5 390 m² — Popice, 361 130 Kč: prodej-pozemku-zemedelska-puda-5-390-m2-8696707/
+- Prodej pozemku, zemědělská půda, 12 769 m² — Popice, 842 754 Kč: prodej-pozemku-zemedelska-puda-12-769-m2-8696711/
+- Prodej pozemku, zemědělská půda, 19 647 m² — Vlčí Habřina, 628 704 Kč: prodej-pozemku-zemedelska-puda-19-647-m2-8696713/
+- Prodej pozemku, trvalý travní porost, 19 365 m² — Dolní Žukov, Rezervováno: prodej-pozemku-trvaly-travni-porost-19-365-m2-8696739/
+- Prodej pozemku, trvalý travní porost, 12 382 m² — Jílové u Držkova, 532 426 Kč: prodej-pozemku-trvaly-travni-porost-12-382-m2-8697407/
+- Prodej pozemku, trvalý travní porost, 1 618 m² — Hořákov, Rezervováno: prodej-pozemku-trvaly-travni-porost-1-618-m2-8697525/
+- Prodej pozemku, zemědělská půda, 4 510 m² — Hořákov, 211 970 Kč: prodej-pozemku-zemedelska-puda-4-510-m2-8697531/
+- Prodej pozemku pro komerční výstavbu, 10 974 m² — Rybník, 876 344 Kč: prodej-pozemku-pro-komercni-vystavbu-10-974-m2-8697705/
+- Prodej pozemku pro komerční výstavbu, 2 680 m² — Dnešice, 867 108 Kč: prodej-pozemku-pro-komercni-vystavbu-2-680-m2-8697707/
+- Prodej pozemku pro bydlení, 4 622 m² — Staré Ždánice, 2 460 620 Kč: prodej-pozemku-pro-bydleni-4-622-m2-8697709/
+- Prodej pozemku, zemědělská půda, 5 501 m² — Bezděkovské Předměstí, 286 052 Kč: prodej-pozemku-zemedelska-puda-5-501-m2-8698339/
+- Prodej pozemku, zemědělská půda, 3 108 m² — Kostelec nad Labem, 217 560 Kč: prodej-pozemku-zemedelska-puda-3-108-m2-8698379/
+- Prodej pozemku, zemědělská půda, 8 794 m² — Obytce, 395 730 Kč: prodej-pozemku-zemedelska-puda-8-794-m2-8698399/
+- Prodej pozemku, zemědělská půda, 41 758 m² — Velký Bor, 2 004 384 Kč: prodej-pozemku-zemedelska-puda-41-758-m2-8698405/
+- Prodej pozemku, trvalý travní porost, 12 437 m² — Petrov, 596 976 Kč: prodej-pozemku-trvaly-travni-porost-12-437-m2-8698417/
+- Prodej pozemku, zemědělská půda, 51 372 m² — Kokořín, 2 722 716 Kč: prodej-pozemku-zemedelska-puda-51-372-m2-8698425/
+- Prodej pozemku, trvalý travní porost, 8 824 m² — Jaroškov, 317 646 Kč: prodej-pozemku-trvaly-travni-porost-8-824-m2-8698451/
+- Prodej pozemku, zemědělská půda, 15 394 m² — Domanín, 831 249 Kč: prodej-pozemku-zemedelska-puda-15-394-m2-8698469/
+- Prodej pozemku, zemědělská půda, 13 981 m² — Babice, 754 974 Kč: prodej-pozemku-zemedelska-puda-13-981-m2-8698473/
+- Prodej pozemku, zemědělská půda, 9 686 m² — Zábrdovice, 474 590 Kč: prodej-pozemku-zemedelska-puda-9-686-m2-8698489/
+- Prodej pozemku, trvalý travní porost, 11 792 m² — Bezděčí, 377 344 Kč: prodej-pozemku-trvaly-travni-porost-11-792-m2-8698499/
+- Prodej pozemku, zemědělská půda, 15 323 m² — Choťovice, 789 474 Kč: prodej-pozemku-zemedelska-puda-15-323-m2-8698501/
+- Prodej pozemku pro komerční výstavbu, 1 193 m² — Veselí nad Moravou, 375 318 Kč: prodej-pozemku-pro-komercni-vystavbu-1-193-m2-8698829/
+- Prodej pozemku, zemědělská půda, 17 173 m² — Kaliště, Rezervováno: prodej-pozemku-zemedelska-puda-17-173-m2-8700449/
+- Prodej pozemku, zemědělská půda, 8 700 m² — Týnec, 478 507 Kč: prodej-pozemku-zemedelska-puda-8-700-m2-8700485/
+- Prodej pozemku, zemědělská půda, 14 236 m² — Chrást, 1 024 992 Kč: prodej-pozemku-zemedelska-puda-14-236-m2-8700501/
+- Prodej pozemku pro bydlení, 2 936 m² — Nětčice, 781 563 Kč: prodej-pozemku-pro-bydleni-2-936-m2-8700575/
+- Prodej pozemku, zemědělská půda, 36 862 m² — Raspenava, 1 170 000 Kč: prodej-pozemku-zemedelska-puda-36-862-m2-8701285/
+- Prodej pozemku, zemědělská půda, 11 250 m² — Železnice, 562 500 Kč: prodej-pozemku-zemedelska-puda-11-250-m2-8701313/
+- Prodej pozemku, zemědělská půda, 55 967 m² — Kelníky, 1 768 422 Kč: prodej-pozemku-zemedelska-puda-55-967-m2-8701315/
+- Prodej pozemku, zemědělská půda, 15 745 m² — Klínovice, 526 316 Kč: prodej-pozemku-zemedelska-puda-15-745-m2-8701321/
+- Prodej pozemku, zemědělská půda, 76 144 m² — Střemošice, 3 274 192 Kč: prodej-pozemku-zemedelska-puda-76-144-m2-8701325/
+- Prodej pozemku, trvalý travní porost, 28 829 m² — Bohuslavice nad Vláří, 922 528 Kč: prodej-pozemku-trvaly-travni-porost-28-829-m2-8701331/
+- Prodej pozemku, zemědělská půda, 23 844 m² — Řemešín, 858 384 Kč: prodej-pozemku-zemedelska-puda-23-844-m2-8701335/
+- Prodej pozemku pro komerční výstavbu, 4 881 m² — Rosice, 2 480 524 Kč: prodej-pozemku-pro-komercni-vystavbu-4-881-m2-8701391/
+- Prodej pozemku pro bydlení, 2 064 m² — Rohatec, 549 304 Kč: prodej-pozemku-pro-bydleni-2-064-m2-8701557/
+- Prodej pozemku pro komerční výstavbu, 9 780 m² — Předměstí, 2 721 774 Kč: prodej-pozemku-pro-komercni-vystavbu-9-780-m2-8701563/
+- Prodej pozemku pro komerční výstavbu, 8 872 m² — Zábřeh, 4 294 048 Kč: prodej-pozemku-pro-komercni-vystavbu-8-872-m2-8701573/
+- Prodej pozemku, zemědělská půda, 6 086 m² — Okrouhlo, 456 450 Kč: prodej-pozemku-zemedelska-puda-6-086-m2-8703321/
+- Prodej pozemku, trvalý travní porost, 7 771 m² — Pavlov u Herálce, 279 756 Kč: prodej-pozemku-trvaly-travni-porost-7-771-m2-8703329/
+- Prodej pozemku, zemědělská půda, 6 111 m² — Újezd, 305 550 Kč: prodej-pozemku-zemedelska-puda-6-111-m2-8703367/
+- Prodej pozemku, zemědělská půda, 13 907 m² — Pec, 625 815 Kč: prodej-pozemku-zemedelska-puda-13-907-m2-8703387/
+- Prodej pozemku, zemědělská půda, 2 525 m² — Chrastavice, 136 350 Kč: prodej-pozemku-zemedelska-puda-2-525-m2-8703415/
+- Prodej pozemku, zemědělská půda, 11 171 m² — Dolní Újezd, 513 866 Kč: prodej-pozemku-zemedelska-puda-11-171-m2-8703419/
+- Prodej pozemku, zemědělská půda, 23 810 m² — Obory, 1 047 640 Kč: prodej-pozemku-zemedelska-puda-23-810-m2-8703423/
+- Prodej pozemku, zemědělská půda, 4 793 m² — Obory, 268 408 Kč: prodej-pozemku-zemedelska-puda-4-793-m2-8703427/
+- Prodej pozemku, zemědělská půda, 8 445 m² — Obory, 405 360 Kč: prodej-pozemku-zemedelska-puda-8-445-m2-8703429/
+- Prodej pozemku, zemědělská půda, 10 572 m² — Obory, 475 740 Kč: prodej-pozemku-zemedelska-puda-10-572-m2-8703431/
+- Prodej pozemku, trvalý travní porost, 21 521 m² — Knínice, 817 798 Kč: prodej-pozemku-trvaly-travni-porost-21-521-m2-8703487/
+- Prodej pozemku, trvalý travní porost, 6 552 m² — Bořice, 321 024 Kč: prodej-pozemku-trvaly-travni-porost-6-552-m2-8703489/
+- Prodej pozemku, zemědělská půda, 32 562 m² — Černošín, 1 497 852 Kč: prodej-pozemku-zemedelska-puda-32-562-m2-8703505/
+- Prodej pozemku, zemědělská půda, 19 885 m² — Milešín, 1 034 020 Kč: prodej-pozemku-zemedelska-puda-19-885-m2-8703511/
+- Prodej pozemku, zemědělská půda, 8 481 m² — Milešín, 449 493 Kč: prodej-pozemku-zemedelska-puda-8-481-m2-8703517/
+- Prodej pozemku, zemědělská půda, 6 313 m² — Loukov, 277 772 Kč: prodej-pozemku-zemedelska-puda-6-313-m2-8703521/
+- Prodej pozemku, zemědělská půda, 38 360 m² — Milešín, 1 879 640 Kč: prodej-pozemku-zemedelska-puda-38-360-m2-8703525/
+- Prodej pozemku, zemědělská půda, 9 996 m² — Milešín, 519 792 Kč: prodej-pozemku-zemedelska-puda-9-996-m2-8703527/
+- Prodej pozemku, zemědělská půda, 14 151 m² — Hořákov, 608 493 Kč: prodej-pozemku-zemedelska-puda-14-151-m2-8703531/
+- Prodej pozemku, trvalý travní porost, 24 573 m² — Střítež nad Ludinou, 884 628 Kč: prodej-pozemku-trvaly-travni-porost-24-573-m2-8703537/
+- Prodej pozemku, trvalý travní porost, 7 782 m² — Střítež nad Ludinou, 303 498 Kč: prodej-pozemku-trvaly-travni-porost-7-782-m2-8703539/
+- Prodej pozemku, zemědělská půda, 16 791 m² — Střítež nad Ludinou, 654 849 Kč: prodej-pozemku-zemedelska-puda-16-791-m2-8703549/
+- Prodej pozemku, zemědělská půda, 13 668 m² — Kotopeky, 833 748 Kč: prodej-pozemku-zemedelska-puda-13-668-m2-8703553/
+- Prodej pozemku, zemědělská půda, 45 996 m² — Tvršice, 1 517 868 Kč: prodej-pozemku-zemedelska-puda-45-996-m2-8703635/
+- Prodej pozemku, zemědělská půda, 36 987 m² — Tachlovice, 5 141 193 Kč: prodej-pozemku-zemedelska-puda-36-987-m2-8703647/
+- Prodej pozemku, trvalý travní porost, 5 810 m² — Záchlumí, 255 640 Kč: prodej-pozemku-trvaly-travni-porost-5-810-m2-8703685/
+- Prodej pozemku, zemědělská půda, 8 787 m² — Vrchoslavice, 518 404 Kč: prodej-pozemku-zemedelska-puda-8-787-m2-8703687/
+- Prodej pozemku, zemědělská půda, 5 791 m² — Třemošnice, 318 505 Kč: prodej-pozemku-zemedelska-puda-5-791-m2-8703701/
+- Prodej pozemku, zemědělská půda, 25 103 m² — Myslkovice, 1 305 356 Kč: prodej-pozemku-zemedelska-puda-25-103-m2-8703707/
+- Prodej pozemku, zemědělská půda, 10 453 m² — Myslkovice, 574 915 Kč: prodej-pozemku-zemedelska-puda-10-453-m2-8703717/
+- Prodej pozemku, zemědělská půda, 5 360 m² — Otvice, Rezervováno: prodej-pozemku-zemedelska-puda-5-360-m2-8703721/
+- Prodej pozemku, zemědělská půda, 14 650 m² — Myslkovice, 791 100 Kč: prodej-pozemku-zemedelska-puda-14-650-m2-8703723/
+- Prodej pozemku, zemědělská půda, 104 443 m² — Otín, 4 386 606 Kč: prodej-pozemku-zemedelska-puda-104-443-m2-8703731/
+- Prodej pozemku, trvalý travní porost, 100 708 m² — Postřelmůvek, 2 719 116 Kč: prodej-pozemku-trvaly-travni-porost-100-708-m2-8703793/
+- Prodej pozemku, trvalý travní porost, 18 193 m² — Postřelmůvek, 600 369 Kč: prodej-pozemku-trvaly-travni-porost-18-193-m2-8703795/
+- Prodej pozemku, trvalý travní porost, 30 743 m² — Postřelmůvek, 983 776 Kč: prodej-pozemku-trvaly-travni-porost-30-743-m2-8703803/
+- Prodej pozemku, zemědělská půda, 19 316 m² — Moravská Huzová, Rezervováno: prodej-pozemku-zemedelska-puda-19-316-m2-8703809/
+- Prodej pozemku, zemědělská půda, 14 672 m² — Vranová, 528 192 Kč: prodej-pozemku-zemedelska-puda-14-672-m2-8703815/
+- Prodej pozemku, trvalý travní porost, 51 772 m² — Postřelmůvek, 1 553 160 Kč: prodej-pozemku-trvaly-travni-porost-51-772-m2-8703817/
+- Prodej pozemku, zemědělská půda, 12 586 m² — Tlučná, 679 617 Kč: prodej-pozemku-zemedelska-puda-12-586-m2-8703823/
+- Prodej pozemku, trvalý travní porost, 28 723 m² — Jindřichov, 890 413 Kč: prodej-pozemku-trvaly-travni-porost-28-723-m2-8703825/
+- Prodej pozemku, zemědělská půda, 15 736 m² — Rakov, 708 120 Kč: prodej-pozemku-zemedelska-puda-15-736-m2-8703845/
+- Prodej pozemku, zemědělská půda, 61 363 m² — Rakov, 2 454 520 Kč: prodej-pozemku-zemedelska-puda-61-363-m2-8703851/
+- Prodej pozemku, trvalý travní porost, 15 444 m² — Rakov, 694 980 Kč: prodej-pozemku-trvaly-travni-porost-15-444-m2-8703855/
+- Prodej pozemku, zemědělská půda, 7 888 m² — Rakov, 362 848 Kč: prodej-pozemku-zemedelska-puda-7-888-m2-8703859/
+- Prodej pozemku, zemědělská půda, 8 172 m² — Solany, 441 288 Kč: prodej-pozemku-zemedelska-puda-8-172-m2-8703863/
+- Prodej pozemku, trvalý travní porost, 7 851 m² — Svatkovice, 361 146 Kč: prodej-pozemku-trvaly-travni-porost-7-851-m2-8703867/
+- Prodej pozemku, zemědělská půda, 12 047 m² — Chlebov, 594 470 Kč: prodej-pozemku-zemedelska-puda-12-047-m2-8703873/
+- Prodej pozemku, zemědělská půda, 14 444 m² — Rakov, 707 756 Kč: prodej-pozemku-zemedelska-puda-14-444-m2-8703879/
+- Prodej pozemku, zemědělská půda, 11 369 m² — Březí, 670 771 Kč: prodej-pozemku-zemedelska-puda-11-369-m2-8703899/
+- Prodej pozemku, zemědělská půda, 3 335 m² — Dyjákovice, 256 795 Kč: prodej-pozemku-zemedelska-puda-3-335-m2-8703911/
+- Prodej pozemku, zemědělská půda, 10 556 m² — Dobronice u Bechyně, 549 390 Kč: prodej-pozemku-zemedelska-puda-10-556-m2-8703921/
+- Prodej pozemku, zemědělská půda, 18 770 m² — Havřice, 919 730 Kč: prodej-pozemku-zemedelska-puda-18-770-m2-8703927/
+- Prodej pozemku, zemědělská půda, 19 435 m² — Velký Karlov, 1 613 105 Kč: prodej-pozemku-zemedelska-puda-19-435-m2-8703929/
+- Prodej pozemku, zemědělská půda, 6 631 m² — Dnešice, 245 347 Kč: prodej-pozemku-zemedelska-puda-6-631-m2-8703941/
+- Prodej pozemku, zemědělská půda, 28 403 m² — Tlumačov, 1 846 195 Kč: prodej-pozemku-zemedelska-puda-28-403-m2-8703949/
+- Prodej pozemku, zemědělská půda, 7 043 m² — Želkovice, 316 935 Kč: prodej-pozemku-zemedelska-puda-7-043-m2-8703951/
+- Prodej pozemku pro komerční výstavbu, 28 919 m² — Želkovice, 1 243 517 Kč: prodej-pozemku-pro-komercni-vystavbu-28-919-m2-8703957/
+- Prodej pozemku pro komerční výstavbu, 25 653 m² — Želkovice, 1 180 038 Kč: prodej-pozemku-pro-komercni-vystavbu-25-653-m2-8703963/
+- Prodej pozemku pro komerční výstavbu, 133 318 m² — Želkovice, 5 332 720 Kč: prodej-pozemku-pro-komercni-vystavbu-133-318-m2-8703965/
+- Prodej pozemku pro komerční výstavbu, 42 369 m² — Želkovice, 1 864 236 Kč: prodej-pozemku-pro-komercni-vystavbu-42-369-m2-8703971/
+- Prodej pozemku pro komerční výstavbu, 8 289 m² — Želkovice, 373 005 Kč: prodej-pozemku-pro-komercni-vystavbu-8-289-m2-8703975/
+- Prodej pozemku, zemědělská půda, 28 919 m² — Želkovice, 1 243 517 Kč: prodej-pozemku-zemedelska-puda-28-919-m2-8703981/
+- Prodej pozemku, zemědělská půda, 21 043 m² — Želkovice, 989 021 Kč: prodej-pozemku-zemedelska-puda-21-043-m2-8703985/
+- Prodej pozemku, zemědělská půda, 133 318 m² — Želkovice, 5 332 720 Kč: prodej-pozemku-zemedelska-puda-133-318-m2-8703987/
+- Prodej pozemku, zemědělská půda, 15 393 m² — Velký Týnec, 1 169 868 Kč: prodej-pozemku-zemedelska-puda-15-393-m2-8703993/
+- Prodej pozemku, zemědělská půda, 42 369 m² — Želkovice, 1 864 236 Kč: prodej-pozemku-zemedelska-puda-42-369-m2-8703995/
+- Prodej pozemku, zemědělská půda, 15 889 m² — Štětí, 413 114 Kč: prodej-pozemku-zemedelska-puda-15-889-m2-8703997/
+- Prodej pozemku, zemědělská půda, 30 958 m² — Radkyně, 1 083 530 Kč: prodej-pozemku-zemedelska-puda-30-958-m2-8703999/
+- Prodej pozemku, zemědělská půda, 8 289 m² — Želkovice, 373 005 Kč: prodej-pozemku-zemedelska-puda-8-289-m2-8704001/
+- Prodej pozemku, zemědělská půda, 25 653 m² — Želkovice, 1 180 038 Kč: prodej-pozemku-zemedelska-puda-25-653-m2-8704009/
+- Prodej pozemku, zemědělská půda, 2 555 m² — Veselí nad Moravou, 107 293 Kč: prodej-pozemku-zemedelska-puda-2-555-m2-8704017/
+- Prodej pozemku, zemědělská půda, 12 914 m² — Malešov, 1 020 206 Kč: prodej-pozemku-zemedelska-puda-12-914-m2-8704023/
+- Prodej pozemku, zemědělská půda, 4 852 m² — Tvarožná Lhota, 198 932 Kč: prodej-pozemku-zemedelska-puda-4-852-m2-8704039/
+- Prodej pozemku, zemědělská půda, 6 765 m² — Smržice, 527 670 Kč: prodej-pozemku-zemedelska-puda-6-765-m2-8704047/
+- Prodej pozemku, zemědělská půda, 15 624 m² — Bělá u Pecky, 593 712 Kč: prodej-pozemku-zemedelska-puda-15-624-m2-8704049/
+- Prodej pozemku, zemědělská půda, 12 333 m² — Strašnov, 641 316 Kč: prodej-pozemku-zemedelska-puda-12-333-m2-8704055/
+- Prodej pozemku, zemědělská půda, 15 334 m² — Radkyně, 613 360 Kč: prodej-pozemku-zemedelska-puda-15-334-m2-8704057/
+- Prodej pozemku, zemědělská půda, 7 540 m² — Ovčáry, 414 700 Kč: prodej-pozemku-zemedelska-puda-7-540-m2-8704063/
+- Prodej pozemku, zemědělská půda, 6 328 m² — Kuchařovice, 436 632 Kč: prodej-pozemku-zemedelska-puda-6-328-m2-8704067/
+- Prodej pozemku, zemědělská půda, 14 171 m² — Liblín, 708 550 Kč: prodej-pozemku-zemedelska-puda-14-171-m2-8704071/
+- Prodej pozemku, zemědělská půda, 9 679 m² — Velká Ves, 338 765 Kč: prodej-pozemku-zemedelska-puda-9-679-m2-8704075/
+- Prodej pozemku, trvalý travní porost, 26 390 m² — Třemošnice, 1 108 380 Kč: prodej-pozemku-trvaly-travni-porost-26-390-m2-8704091/
+- Prodej pozemku, zemědělská půda, 20 905 m² — Třemošnice, 836 200 Kč: prodej-pozemku-zemedelska-puda-20-905-m2-8704095/
+- Prodej pozemku, zemědělská půda, 41 424 m² — Třemošnice, 1 615 536 Kč: prodej-pozemku-zemedelska-puda-41-424-m2-8704111/
+- Prodej pozemku, trvalý travní porost, 20 519 m² — Třemošnice, 882 317 Kč: prodej-pozemku-trvaly-travni-porost-20-519-m2-8704113/
+- Prodej pozemku, zemědělská půda, 40 574 m² — Hřešihlavy, 2 028 679 Kč: prodej-pozemku-zemedelska-puda-40-574-m2-8704201/
+- Prodej pozemku, trvalý travní porost, 3 929 m² — Rakolusky, 212 166 Kč: prodej-pozemku-trvaly-travni-porost-3-929-m2-8704209/
+- Prodej pozemku, trvalý travní porost, 3 083 m² — Třímany, 154 129 Kč: prodej-pozemku-trvaly-travni-porost-3-083-m2-8704211/
+- Prodej pozemku, zemědělská půda, 14 003 m² — Třímany, Rezervováno: prodej-pozemku-zemedelska-puda-14-003-m2-8704217/
+- Prodej pozemku, zemědělská půda, 1 640 m² — Násedlovice, 99 351 Kč: prodej-pozemku-zemedelska-puda-1-640-m2-8704229/
+- Prodej pozemku, zemědělská půda, 13 615 m² — Povel, 1 633 800 Kč: prodej-pozemku-zemedelska-puda-13-615-m2-8704985/
+- Prodej pozemku, zemědělská půda, 11 062 m² — Násedlovice, 575 198 Kč: prodej-pozemku-zemedelska-puda-11-062-m2-8705009/
+- Prodej pozemku pro bydlení, 5 369 m² — Zruč nad Sázavou, 2 403 701 Kč: prodej-pozemku-pro-bydleni-5-369-m2-8705267/
+- Prodej pozemku pro komerční výstavbu, 10 581 m² — Litkovice, 2 688 632 Kč: prodej-pozemku-pro-komercni-vystavbu-10-581-m2-8705269/
+- Prodej pozemku, zemědělská půda, 64 073 m² — Chornice, 3 524 015 Kč: prodej-pozemku-zemedelska-puda-64-073-m2-8705629/
+- Prodej pozemku pro bydlení, 6 654 m² — Starý Pelhřimov, 4 830 804 Kč: prodej-pozemku-pro-bydleni-6-654-m2-8705895/
+- Prodej pozemku pro bydlení, 6 321 m² — Zelená, 879 567 Kč: prodej-pozemku-pro-bydleni-6-321-m2-8706011/
+- Prodej pozemku pro komerční výstavbu, 14 113 m² — Šubířov, 705 650 Kč: prodej-pozemku-pro-komercni-vystavbu-14-113-m2-8706029/
+- Prodej pozemku pro bydlení, 8 684 m² — Mladotice, 4 203 056 Kč: prodej-pozemku-pro-bydleni-8-684-m2-8706161/
+- Prodej pozemku, zemědělská půda, 7 348 m² — Záluží, 404 140 Kč: prodej-pozemku-zemedelska-puda-7-348-m2-8706289/
+- Prodej pozemku, zemědělská půda, 69 486 m² — Bobrová, 3 543 786 Kč: prodej-pozemku-zemedelska-puda-69-486-m2-8706301/
+- Prodej pozemku, zemědělská půda, 14 992 m² — Velká nad Veličkou, 509 728 Kč: prodej-pozemku-zemedelska-puda-14-992-m2-8706305/
+- Prodej pozemku, zemědělská půda, 13 254 m² — Chválkov, 596 430 Kč: prodej-pozemku-zemedelska-puda-13-254-m2-8706307/
+- Prodej pozemku, zemědělská půda, 42 095 m² — Vojnice, 3 746 455 Kč: prodej-pozemku-zemedelska-puda-42-095-m2-8706553/
+- Prodej pozemku, trvalý travní porost, 15 801 m² — Lhůta, 774 249 Kč: prodej-pozemku-trvaly-travni-porost-15-801-m2-8706761/
+- Prodej pozemku, zemědělská půda, 25 572 m² — Vejprnice, 1 406 460 Kč: prodej-pozemku-zemedelska-puda-25-572-m2-8706763/
+- Prodej pozemku, zemědělská půda, 8 352 m² — Česká, 734 976 Kč: prodej-pozemku-zemedelska-puda-8-352-m2-8706775/
+- Prodej pozemku, trvalý travní porost, 4 646 m² — Loukovice, 218 362 Kč: prodej-pozemku-trvaly-travni-porost-4-646-m2-8706787/
+- Prodej pozemku, zemědělská půda, 54 659 m² — Říčky, 3 388 843 Kč: prodej-pozemku-zemedelska-puda-54-659-m2-8706793/
+- Prodej pozemku, trvalý travní porost, 2 076 m² — Slovanská Lhota, 107 952 Kč: prodej-pozemku-trvaly-travni-porost-2-076-m2-8706807/
+- Prodej pozemku, zemědělská půda, 45 874 m² — Černá u Bohdanče, 2 201 952 Kč: prodej-pozemku-zemedelska-puda-45-874-m2-8706829/
+- Prodej pozemku, zemědělská půda, 12 121 m² — Ořechov, 799 986 Kč: prodej-pozemku-zemedelska-puda-12-121-m2-8706841/
+- Prodej pozemku, zemědělská půda, 6 317 m² — Štarnov, 454 824 Kč: prodej-pozemku-zemedelska-puda-6-317-m2-8706853/
+- Prodej pozemku, zemědělská půda, 8 556 m² — Obora, 470 580 Kč: prodej-pozemku-zemedelska-puda-8-556-m2-8706887/
+- Prodej pozemku, zemědělská půda, 10 594 m² — Obora, Rezervováno: prodej-pozemku-zemedelska-puda-10-594-m2-8706889/
+- Prodej pozemku pro bydlení, 513 m² — Jílové u Držkova, 409 682 Kč: prodej-pozemku-pro-bydleni-513-m2-8707111/
+- Prodej pozemku pro komerční výstavbu, 19 259 m² — Mysletice, 1 364 202 Kč: prodej-pozemku-pro-komercni-vystavbu-19-259-m2-8707675/
+- Prodej pozemku pro komerční výstavbu, 5 483 m² — Mysletice, 530 754 Kč: prodej-pozemku-pro-komercni-vystavbu-5-483-m2-8707679/
+- Prodej pozemku pro bydlení, 13 776 m² — Mysletice, 833 448 Kč: prodej-pozemku-pro-bydleni-13-776-m2-8707687/
+- Prodej pozemku, zemědělská půda, 19 259 m² — Mysletice, 1 364 202 Kč: prodej-pozemku-zemedelska-puda-19-259-m2-8707705/
+- Prodej pozemku, zemědělská půda, 7 738 m² — Velíková, 371 424 Kč: prodej-pozemku-zemedelska-puda-7-738-m2-8707719/
+- Prodej pozemku, zemědělská půda, 11 210 m² — Bezuchov, 582 920 Kč: prodej-pozemku-zemedelska-puda-11-210-m2-8707723/
+- Prodej pozemku, trvalý travní porost, 10 075 m² — Lázně Bohdaneč, 443 299 Kč: prodej-pozemku-trvaly-travni-porost-10-075-m2-8707725/
+- Prodej pozemku, zemědělská půda, 12 710 m² — Kochánky, 737 180 Kč: prodej-pozemku-zemedelska-puda-12-710-m2-8707727/
+- Prodej pozemku, zemědělská půda, 8 241 m² — Tisovec, 370 845 Kč: prodej-pozemku-zemedelska-puda-8-241-m2-8707731/
+- Prodej pozemku, zemědělská půda, 13 776 m² — Mysletice, 833 448 Kč: prodej-pozemku-zemedelska-puda-13-776-m2-8707733/
+- Prodej pozemku, zemědělská půda, 10 933 m² — Javorník, 426 387 Kč: prodej-pozemku-zemedelska-puda-10-933-m2-8707745/
+- Prodej pozemku, zemědělská půda, 10 659 m² — Kněžice, 532 950 Kč: prodej-pozemku-zemedelska-puda-10-659-m2-8707763/
+- Prodej pozemku, zemědělská půda, 9 711 m² — Vranová Lhota, 320 463 Kč: prodej-pozemku-zemedelska-puda-9-711-m2-8707767/
+- Prodej pozemku, zemědělská půda, 7 947 m² — Srbeč, 357 615 Kč: prodej-pozemku-zemedelska-puda-7-947-m2-8707773/
+- Prodej pozemku pro komerční výstavbu, 7 947 m² — Srbeč, 357 615 Kč: prodej-pozemku-pro-komercni-vystavbu-7-947-m2-8707783/
+- Prodej pozemku, zemědělská půda, 65 224 m² — Horní Chobolice, 1 891 496 Kč: prodej-pozemku-zemedelska-puda-65-224-m2-8707801/
+- Prodej pozemku, zemědělská půda, 33 184 m² — Horní Chobolice, 1 194 606 Kč: prodej-pozemku-zemedelska-puda-33-184-m2-8707811/
+- Prodej pozemku, zemědělská půda, 13 275 m² — Dolní Chobolice, 517 706 Kč: prodej-pozemku-zemedelska-puda-13-275-m2-8707817/
+- Prodej pozemku, les, 18 766 m² — Trnobrany, 375 320 Kč: prodej-pozemku-les-18-766-m2-8707821/
+- Prodej pozemku, zemědělská půda, 23 899 m² — Sušice, 1 056 577 Kč: prodej-pozemku-zemedelska-puda-23-899-m2-8707827/
+- Prodej pozemku, zemědělská půda, 24 375 m² — Chodeč, 853 125 Kč: prodej-pozemku-zemedelska-puda-24-375-m2-8707841/
+- Prodej pozemku pro bydlení, 13 132 m² — Široká Niva, 6 991 477 Kč: prodej-pozemku-pro-bydleni-13-132-m2-8707867/
+- Prodej pozemku, zahrada, 76 m² — Chlístovice, 91 960 Kč: prodej-pozemku-zahrada-76-m2-8707897/
+- Prodej pozemku, zemědělská půda, 23 098 m² — Kuřimany, 716 028 Kč: prodej-pozemku-zemedelska-puda-23-098-m2-8707963/
